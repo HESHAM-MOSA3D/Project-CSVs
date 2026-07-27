@@ -551,759 +551,116 @@ Mekasarat Muhamasa,Table/Cooking Salt,1,tsp
 Balah Mahshi bel Mekasarat,Dates,300,g
 Balah Mahshi bel Mekasarat,Walnuts,80,g
 Balah Mahshi bel Mekasarat,Almonds,80,g
-"Fiteer Pie, Meshaltet",Black Pepper,150,g
-"Fiteer Pie, Meshaltet",Tomato Juice,100,g
-"Fiteer Pie, Meshaltet",Butter (Unsalted),2,tbsp
-"Fiteer Pie, Meshaltet",Cumin,1,tsp
-"Fiteer Pie, Market","Green Beans, Cooked",150,g
-"Fiteer Pie, Market",Black Pepper,100,g
-"Fiteer Pie, Market",Vegetable Oil,2,tbsp
-"Fiteer Pie, Market",Coriander Seeds,1,tsp
-Rucak Pie with Meat,Pigeon Meat and Skin,250,g
-Rucak Pie with Meat,"Macaroni with Tomato and Meat, Cooked",100,g
-Rucak Pie with Meat,Sesame Butter (Tehina),2,tbsp
-Rucak Pie with Meat,Salted Catfish,1,tsp
-Pizza with Cheese Topping,Full Cream Milk,150,g
-Pizza with Cheese Topping,Tomato Ketchup,100,g
-Pizza with Cheese Topping,Vegetable Oil,1,tbsp
-Pizza with Cheese Topping,Carrots,50,g
-Pizza with Meat/Sausage Topping,Fried Beef Brain,250,g
-Pizza with Meat/Sausage Topping,Pickled Green Onions,100,g
-Pizza with Meat/Sausage Topping,Sesame Butter (Tehina),2,tbsp
-Pizza with Meat/Sausage Topping,Salted Biscuit,1,tsp
-Pizza with Seafood Topping,Grilled Tilapia,300,g
-Pizza with Seafood Topping,"Green Beans, Cooked",100,g
-Pizza with Seafood Topping,Sesame Butter (Tehina),2,tbsp
-Pizza with Seafood Topping,Green Peppers,1,tsp
-Vegetarian Pizza,Chocolate Milk,150,g
-Vegetarian Pizza,Green Broad Beans,100,g
-Vegetarian Pizza,Butter Oil (Ghee),1,tbsp
-Vegetarian Pizza,Squash,50,g
-White Cheese Sandwich,Chocolate Milk,150,g
-White Cheese Sandwich,Red Pepper,100,g
-White Cheese Sandwich,Butter (Unsalted),1,tbsp
-White Cheese Sandwich,Tomato Ketchup,50,g
-Yellow Cheese Sandwich,Human Milk,150,g
-Yellow Cheese Sandwich,Black Pepper,100,g
-Yellow Cheese Sandwich,Sesame Butter (Tehina),1,tbsp
-Yellow Cheese Sandwich,Peeled Lentils (Yellow),50,g
-Fried Brain Sandwich,Kidney Beans (White),150,g
-Fried Brain Sandwich,Fried Eggplant,100,g
-Fried Brain Sandwich,Vegetable Oil,2,tbsp
-Fried Brain Sandwich,Orange/Red/Yellow Peppers,1,tsp
-Fried Chicken Sandwich,Chicken Liver,300,g
-Fried Chicken Sandwich,Peeled Lentils (Yellow),150,g
-Fried Chicken Sandwich,Sesame Butter (Tehina),2,tbsp
-Fried Chicken Sandwich,Red Pepper,1,tsp
-Fried Eggplant Sandwich,"Peeled Lentils with Rice, Cooked",150,g
-Fried Eggplant Sandwich,"Macaroni with Tomato and Meat, Cooked",100,g
-Fried Eggplant Sandwich,Butter (Unsalted),2,tbsp
-Fried Eggplant Sandwich,Black Pepper,1,tsp
-Fried Liver Sandwich,Tomato Ketchup,150,g
-Fried Liver Sandwich,Carrots,100,g
-Fried Liver Sandwich,Butter Oil (Ghee),2,tbsp
-Fried Liver Sandwich,Green Peppers,1,tsp
-Fried Shrimp Sandwich,Fried Tilapia,300,g
-Fried Shrimp Sandwich,Carrots,100,g
-Fried Shrimp Sandwich,Butter (Unsalted),2,tbsp
-Fried Shrimp Sandwich,Salted Watermelon Seeds,1,tsp
-Fried Taamia Sandwich,"Green Beans, Cooked",150,g
-Fried Taamia Sandwich,Fried Rice with Onions,100,g
-Fried Taamia Sandwich,Vegetable Oil,2,tbsp
-Fried Taamia Sandwich,Table/Cooking Salt,1,tsp
-Grilled Chicken Sandwich,Grilled Chicken,300,g
-Grilled Chicken Sandwich,Sweet Potatoes,150,g
-Grilled Chicken Sandwich,Butter Oil (Ghee),2,tbsp
-Grilled Chicken Sandwich,Cumin,1,tsp
-Grilled Kofta Sandwich,"Macaroni with Tomato and Meat, Cooked",250,g
-Grilled Kofta Sandwich,Mashed Potatoes with Meat/Egg,100,g
-Grilled Kofta Sandwich,Butter Oil (Ghee),2,tbsp
-Grilled Kofta Sandwich,Salted Catfish,1,tsp
-Hamburger Sandwich,Pickled Green Onions,150,g
-Hamburger Sandwich,Green Peppers,100,g
-Hamburger Sandwich,Butter (Unsalted),2,tbsp
-Hamburger Sandwich,Coriander Seeds,1,tsp
-Hotdog Sandwich,Mung Beans,150,g
-Hotdog Sandwich,Peeled Lentils (Yellow),100,g
-Hotdog Sandwich,Sesame Butter (Tehina),2,tbsp
-Hotdog Sandwich,Orange/Red/Yellow Peppers,1,tsp
-Shawerma Meat Sandwich,Boiled Beef Head Meat,250,g
-Shawerma Meat Sandwich,Mature Onion Bulb,100,g
-Shawerma Meat Sandwich,Butter Oil (Ghee),2,tbsp
-Shawerma Meat Sandwich,Salted Biscuit (Pretzel),1,tsp
-Stewed Foul Sandwich,Mung Beans,150,g
-Stewed Foul Sandwich,Unpeeled Lentils,100,g
-Stewed Foul Sandwich,Butter Oil (Ghee),2,tbsp
-Stewed Foul Sandwich,Table/Cooking Salt,1,tsp
-Potatoes Cooked with Tomato,Fried Rice with Onions,150,g
-Potatoes Cooked with Tomato,Black Pepper,100,g
-Potatoes Cooked with Tomato,Butter (Unsalted),2,tbsp
-Potatoes Cooked with Tomato,Orange/Red/Yellow Peppers,1,tsp
-Potatoes Stuffed with Meat,Beef Knuckle,250,g
-Potatoes Stuffed with Meat,Green Beans,100,g
-Potatoes Stuffed with Meat,Butter (Unsalted),2,tbsp
-Potatoes Stuffed with Meat,Table/Cooking Salt,1,tsp
-Broad Beans (Bisara),"Macaroni with Tomato and Meat, Cooked",150,g
-Broad Beans (Bisara),Fried Potatoes,100,g
-Broad Beans (Bisara),Butter Oil (Ghee),2,tbsp
-Broad Beans (Bisara),Table/Cooking Salt,1,tsp
-Broad Beans (Foul Medames),White Kidney Beans with Meat,150,g
-Broad Beans (Foul Medames),"Macaroni with Tomato, Cooked",100,g
-Broad Beans (Foul Medames),Sesame Butter (Tehina),2,tbsp
-Broad Beans (Foul Medames),Coriander Seeds,1,tsp
-Broad Beans (Menabet),"Squash, Cooked",150,g
-Broad Beans (Menabet),"Unpeeled Lentils, Cooked",100,g
-Broad Beans (Menabet),Butter (Unsalted),2,tbsp
-Broad Beans (Menabet),Salted Catfish,1,tsp
-"Broad Beans (Nabet), Cooked",Orange/Red/Yellow Peppers,150,g
-"Broad Beans (Nabet), Cooked","Eggplant, Cooked",100,g
-"Broad Beans (Nabet), Cooked",Butter (Unsalted),2,tbsp
-"Broad Beans (Nabet), Cooked",Salted Biscuit,1,tsp
-"Broad Beans (Taamia), Fried",Peeled Lentils (Yellow),150,g
-"Broad Beans (Taamia), Fried",Kidney Beans (White),100,g
-"Broad Beans (Taamia), Fried",Sesame Butter (Tehina),2,tbsp
-"Broad Beans (Taamia), Fried",Orange/Red/Yellow Peppers,1,tsp
-Cowpeas Cooked with Meat,Mashed Potatoes with Meat/Egg,250,g
-Cowpeas Cooked with Meat,"Broad Beans (Foul), Canned",100,g
-Cowpeas Cooked with Meat,Butter (Unsalted),2,tbsp
-Cowpeas Cooked with Meat,Coriander Leaves,1,tsp
-Peeled Lentil Soup,"White Kidney Beans, Cooked",150,g
-Peeled Lentil Soup,Sweet Potatoes,100,g
-Peeled Lentil Soup,Butter Oil (Ghee),2,tbsp
-Peeled Lentil Soup,Red Pepper,1,tsp
-Cabbage Stuffed with Rice,Kidney Beans (Red),150,g
-Cabbage Stuffed with Rice,Pickled Onions,100,g
-Cabbage Stuffed with Rice,Vegetable Oil,2,tbsp
-Cabbage Stuffed with Rice,Salted Sardine,1,tsp
-Cabbage Stuffed with Rice and Meat,Goat Meat,250,g
-Cabbage Stuffed with Rice and Meat,Orange/Red/Yellow Peppers,100,g
-Cabbage Stuffed with Rice and Meat,Vegetable Oil,2,tbsp
-Cabbage Stuffed with Rice and Meat,Green Peppers,1,tsp
-Eggplant Cooked with Meat,Beef Head,250,g
-Eggplant Cooked with Meat,Green Broad Beans,100,g
-Eggplant Cooked with Meat,Butter (Unsalted),2,tbsp
-Eggplant Cooked with Meat,Salted Sardine,1,tsp
-Eggplant Stuffed with Rice,Unpeeled Lentils,150,g
-Eggplant Stuffed with Rice,Pickled Onions,100,g
-Eggplant Stuffed with Rice,Butter Oil (Ghee),2,tbsp
-Eggplant Stuffed with Rice,Salted Mullet,1,tsp
-Grape Leaves Stuffed with Rice,Round Eggplant,150,g
-Grape Leaves Stuffed with Rice,Unpeeled Lentils,100,g
-Grape Leaves Stuffed with Rice,Vegetable Oil,2,tbsp
-Grape Leaves Stuffed with Rice,Green Peppers,1,tsp
-"Jew's Mallow, Cooked","Squash, Cooked",150,g
-"Jew's Mallow, Cooked",Fried Potatoes,100,g
-"Jew's Mallow, Cooked",Butter Oil (Ghee),2,tbsp
-"Jew's Mallow, Cooked",Salted Mullet,1,tsp
-Lettuce Stuffed with Rice,Dry Peas,150,g
-Lettuce Stuffed with Rice,Dry Peas,100,g
-Lettuce Stuffed with Rice,Butter (Unsalted),2,tbsp
-Lettuce Stuffed with Rice,Salted Catfish,1,tsp
-Lettuce Stuffed with Rice and Meat,Beef Kidneys,250,g
-Lettuce Stuffed with Rice and Meat,Green Beans,100,g
-Lettuce Stuffed with Rice and Meat,Sesame Butter (Tehina),2,tbsp
-Lettuce Stuffed with Rice and Meat,Coriander Seeds,1,tsp
-"Mallow, Cooked",Decorticated Broad Beans,150,g
-"Mallow, Cooked",Red Pepper,100,g
-"Mallow, Cooked",Butter Oil (Ghee),2,tbsp
-"Mallow, Cooked",Salted Biscuit (Pretzel),1,tsp
-Okra Cooked with Meat,"Cauliflower with Meat, Cooked",250,g
-Okra Cooked with Meat,Green Beans,100,g
-Okra Cooked with Meat,Butter Oil (Ghee),2,tbsp
-Okra Cooked with Meat,Red Pepper,1,tsp
-Spinach Cooked with Meat,Pigeon Meat and Skin,250,g
-Spinach Cooked with Meat,Carrots,100,g
-Spinach Cooked with Meat,Butter Oil (Ghee),2,tbsp
-Spinach Cooked with Meat,Sodium Reduced Salt,1,tsp
-Squash Cooked with Meat,Beef Kidneys,250,g
-Squash Cooked with Meat,Green Broad Beans,100,g
-Squash Cooked with Meat,Sesame Butter (Tehina),2,tbsp
-Squash Cooked with Meat,Salted Biscuit,1,tsp
-Squash Stuffed with Rice,Carrots,150,g
-Squash Stuffed with Rice,Dry Peas,100,g
-Squash Stuffed with Rice,Sesame Butter (Tehina),2,tbsp
-Squash Stuffed with Rice,Table/Cooking Salt,1,tsp
-Squash Stuffed with Rice and Meat,Chicken Meat and Skin,250,g
-Squash Stuffed with Rice and Meat,Mashed Potatoes with Meat/Egg,100,g
-Squash Stuffed with Rice and Meat,Sesame Butter (Tehina),2,tbsp
-Squash Stuffed with Rice and Meat,Salted Pumpkin Seeds,1,tsp
-Oriental Baklava,Chocolate Milk,100,g
-Oriental Baklava,Cheese Spread,150,ml
-Oriental Baklava,Sesame Butter (Tehina),50,g
-Oriental Baklava,Sugarcane Juice,50,g
-Oriental Baklava (Assorted),Chocolate Milk,100,g
-Oriental Baklava (Assorted),"White Cheese, Half Cream",150,ml
-Oriental Baklava (Assorted),Butter (Unsalted),50,g
-Oriental Baklava (Assorted),Sugar (Fructose),50,g
-Oriental Balah El-Sham,Milk Chocolate,100,g
-Oriental Balah El-Sham,Fruit Milk,150,ml
-Oriental Balah El-Sham,Vegetable Oil,50,g
-Oriental Balah El-Sham,Instant Chocolate Drink,50,g
-Oriental Basbusa,Mung Beans,150,g
-Oriental Basbusa,"Unpeeled Lentils, Cooked",100,g
-Oriental Basbusa,Butter Oil (Ghee),2,tbsp
-Oriental Basbusa,Green Peppers,1,tsp
-Oriental Basbusa with Nuts,Dry Peas,150,g
-Oriental Basbusa with Nuts,Green Peas,100,g
-Oriental Basbusa with Nuts,Butter (Unsalted),2,tbsp
-Oriental Basbusa with Nuts,Salted Biscuit,1,tsp
-Oriental Eish Saraya (Cream),Red Pepper,150,g
-Oriental Eish Saraya (Cream),Tomato Roots,100,g
-Oriental Eish Saraya (Cream),Butter (Unsalted),2,tbsp
-Oriental Eish Saraya (Cream),Salted Mullet,1,tsp
-Oriental Ghoraiba,"Macaroni with Tomato and Meat, Cooked",150,g
-Oriental Ghoraiba,Carrots,100,g
-Oriental Ghoraiba,Butter Oil (Ghee),2,tbsp
-Oriental Ghoraiba,Table/Cooking Salt,1,tsp
-Oriental Kaak Eid,Mashed Potatoes with Milk,150,g
-Oriental Kaak Eid,Husk Tomatoes,100,g
-Oriental Kaak Eid,Butter Oil (Ghee),2,tbsp
-Oriental Kaak Eid,Cumin,1,tsp
-Oriental Katait,Fried Rice with Onions,150,g
-Oriental Katait,Green Broad Beans,100,g
-Oriental Katait,Butter (Unsalted),2,tbsp
-Oriental Katait,Orange/Red/Yellow Peppers,1,tsp
-"Oriental Kunafa, Cream",Black Pepper,150,g
-"Oriental Kunafa, Cream",Carrots,100,g
-"Oriental Kunafa, Cream",Sesame Butter (Tehina),2,tbsp
-"Oriental Kunafa, Cream",Salted Catfish,1,tsp
-Oriental Kunafa with Nuts,"Peas and Carrots, Cooked",150,g
-Oriental Kunafa with Nuts,Round Eggplant,100,g
-Oriental Kunafa with Nuts,Butter Oil (Ghee),2,tbsp
-Oriental Kunafa with Nuts,Salted Biscuit (Pretzel),1,tsp
-Oriental Lukmet El-Kady,"Unpeeled Lentils, Cooked",150,g
-Oriental Lukmet El-Kady,"Squash, Cooked",100,g
-Oriental Lukmet El-Kady,Vegetable Oil,2,tbsp
-Oriental Lukmet El-Kady,Salted Watermelon Seeds,1,tsp
-Oriental Maamoul,Tomato Ketchup,150,g
-Oriental Maamoul,Tomato Roots,100,g
-Oriental Maamoul,Vegetable Oil,2,tbsp
-Oriental Maamoul,Cumin,1,tsp
-"Beef Meat (Kofta, Fried)",Rabbit Meat,250,g
-"Beef Meat (Kofta, Fried)",Unpeeled Lentils,100,g
-"Beef Meat (Kofta, Fried)",Butter Oil (Ghee),2,tbsp
-"Beef Meat (Kofta, Fried)",Black Pepper,1,tsp
-"Beef Meat (Kofta, Grilled)",Beef Lung,250,g
-"Beef Meat (Kofta, Grilled)",Pickled Onions,100,g
-"Beef Meat (Kofta, Grilled)",Butter Oil (Ghee),2,tbsp
-"Beef Meat (Kofta, Grilled)",Salted Mullet,1,tsp
-Beef Meat (Kofta/Rice),Beef Frankfurter,250,g
-Beef Meat (Kofta/Rice),Mung Beans,100,g
-Beef Meat (Kofta/Rice),Butter Oil (Ghee),2,tbsp
-Beef Meat (Kofta/Rice),Salted Sardine,1,tsp
-Lamb Meat (Kabab),Beef Heart,250,g
-Lamb Meat (Kabab),"Eggplant, Cooked",100,g
-Lamb Meat (Kabab),Sesame Butter (Tehina),2,tbsp
-Lamb Meat (Kabab),Coriander Leaves,1,tsp
-Omelet (Ijaa),Green Broad Beans,150,g
-Omelet (Ijaa),Pickled Onions,100,g
-Omelet (Ijaa),Butter Oil (Ghee),2,tbsp
-Omelet (Ijaa),Black Pepper,1,tsp
-Koshari,Potatoes,150,g
-Koshari,Green Beans,100,g
-Koshari,Butter Oil (Ghee),2,tbsp
-Koshari,Green Peppers,1,tsp
-Molokhia,"Macaroni with Tomato and Meat, Cooked",150,g
-Molokhia,Pickled Green Onions,100,g
-Molokhia,Butter (Unsalted),2,tbsp
-Molokhia,Salted Sardine,1,tsp
-Mahshi,Decorticated Broad Beans,150,g
-Mahshi,Green Beans,100,g
-Mahshi,Butter (Unsalted),2,tbsp
-Mahshi,Salted Catfish,1,tsp
-Ful Medames,Potatoes,150,g
-Ful Medames,"Macaroni with Tomato and Meat, Cooked",100,g
+Koshari,Rice Grains (Short),200,g
+Koshari,Macaroni,200,g
+Koshari,Unpeeled Lentils,150,g
+Koshari,Chickpeas,100,g
+Koshari,Tomatoes,300,g
+Koshari,Mature Onion Bulb,150,g
+Koshari,Garlic Bulb,20,g
+Koshari,Vegetable Oil,3,tbsp
+Koshari,Cumin,1,tsp
+Molokhia,Jew's Mallow,400,g
+Molokhia,Chicken Stock,500,ml
+Molokhia,Garlic Bulb,30,g
+Molokhia,Coriander Seeds,2,tsp
+Molokhia,Butter Oil (Ghee),2,tbsp
+Mahshi Waraq Enab,Grape Leaves,300,g
+Mahshi Waraq Enab,Rice Grains (Short),250,g
+Mahshi Waraq Enab,Tomatoes,200,g
+Mahshi Waraq Enab,Mature Onion Bulb,100,g
+Mahshi Waraq Enab,Parsley,50,g
+Mahshi Waraq Enab,Dill,50,g
+Mahshi Waraq Enab,Coriander Leaves,50,g
+Mahshi Waraq Enab,Vegetable Oil,2,tbsp
+Ful Medames,Broad Beans,300,g
 Ful Medames,Vegetable Oil,2,tbsp
-Ful Medames,Salted Pumpkin Seeds,1,tsp
-Taameya,Pickled Green Onions,150,g
-Taameya,"Eggplant, Cooked",100,g
-Taameya,Butter Oil (Ghee),2,tbsp
-Taameya,Cumin,1,tsp
-Fatteh,Sweet Potatoes,150,g
-Fatteh,Squash,100,g
-Fatteh,Butter (Unsalted),2,tbsp
-Fatteh,Red Pepper,1,tsp
-Macarona Bechamel,Pickled Onions,150,g
-Macarona Bechamel,White Kidney Beans with Meat,100,g
-Macarona Bechamel,Butter Oil (Ghee),2,tbsp
-Macarona Bechamel,Green Peppers,1,tsp
-Roz Bel Laban,Decorticated Broad Beans,150,g
-Roz Bel Laban,Squash,100,g
-Roz Bel Laban,Vegetable Oil,2,tbsp
-Roz Bel Laban,Salted Biscuit,1,tsp
-Om Ali,Mashed Potatoes with Meat/Egg,150,g
-Om Ali,Black Pepper,100,g
-Om Ali,Butter (Unsalted),2,tbsp
-Om Ali,Coriander Leaves,1,tsp
-Sayadeya,Sweet Potatoes,150,g
-Sayadeya,"Green Beans, Cooked",100,g
-Sayadeya,Vegetable Oil,2,tbsp
-Sayadeya,Salted Biscuit (Pretzel),1,tsp
-Bamia,Tomato Roots,150,g
-Bamia,"Unpeeled Lentils, Cooked",100,g
-Bamia,Sesame Butter (Tehina),2,tbsp
-Bamia,Coriander Seeds,1,tsp
-Moussaka,Potatoes,150,g
-Moussaka,Black Pepper,100,g
-Moussaka,Butter Oil (Ghee),2,tbsp
-Moussaka,Black Pepper,1,tsp
-Hawawshi,Goat Meat,250,g
-Hawawshi,"Squash, Cooked",100,g
-Hawawshi,Sesame Butter (Tehina),2,tbsp
-Hawawshi,Coriander Seeds,1,tsp
-Shawarma,Mashed Potatoes with Meat/Egg,150,g
-Shawarma,Kidney Beans (Red),100,g
-Shawarma,Butter (Unsalted),2,tbsp
-Shawarma,Orange/Red/Yellow Peppers,1,tsp
-Kofta Hasan Pasha,Beef Knuckle,250,g
-Kofta Hasan Pasha,Fried Potatoes,100,g
-Kofta Hasan Pasha,Butter (Unsalted),2,tbsp
-Kofta Hasan Pasha,Salted Watermelon Seeds,1,tsp
-Kabab Halla,Beef Liver,250,g
-Kabab Halla,Unpeeled Lentils,100,g
-Kabab Halla,Butter Oil (Ghee),2,tbsp
-Kabab Halla,Salted Sardine,1,tsp
-Shish Tawook,Chicken Egg Yolk,300,g
-Shish Tawook,Potatoes,150,g
-Shish Tawook,Butter (Unsalted),2,tbsp
-Shish Tawook,Cumin,1,tsp
-Tarb,Green Peppers,150,g
-Tarb,Peeled Lentils (Yellow),100,g
-Tarb,Butter (Unsalted),2,tbsp
-Tarb,Salted Sardine,1,tsp
-Mombar,Squash,150,g
-Mombar,Sweet Potatoes,100,g
-Mombar,Butter (Unsalted),2,tbsp
-Mombar,Salted Mullet,1,tsp
-Kersha,"Peas and Carrots, Cooked",150,g
-Kersha,"White Kidney Beans, Cooked",100,g
-Kersha,Butter Oil (Ghee),2,tbsp
-Kersha,Coriander Seeds,1,tsp
-Feshah,Fried Potatoes,150,g
-Feshah,"Peeled Lentils with Rice, Cooked",100,g
-Feshah,Butter (Unsalted),2,tbsp
-Feshah,Coriander Leaves,1,tsp
-Makhasy,"Macaroni with Tomato, Cooked",150,g
-Makhasy,Tomato Ketchup,100,g
-Makhasy,Sesame Butter (Tehina),2,tbsp
-Makhasy,Salted Pumpkin Seeds,1,tsp
-Kawaree,Green Broad Beans,150,g
-Kawaree,"Macaroni with Tomato and Meat, Cooked",100,g
-Kawaree,Sesame Butter (Tehina),2,tbsp
-Kawaree,Salted Mullet,1,tsp
-Akawy,Pickled Green Onions,150,g
-Akawy,White Kidney Beans with Meat,100,g
-Akawy,Butter Oil (Ghee),2,tbsp
-Akawy,Salted Mullet,1,tsp
-Fatta Kawaree,"Squash, Cooked",150,g
-Fatta Kawaree,Green Peas,100,g
-Fatta Kawaree,Vegetable Oil,2,tbsp
-Fatta Kawaree,Red Pepper,1,tsp
-Tagen Sabeet,Grilled Tilapia,300,g
-Tagen Sabeet,Pickled Onions,100,g
-Tagen Sabeet,Vegetable Oil,2,tbsp
-Tagen Sabeet,Coriander Leaves,1,tsp
-Gandofly,Mullet,300,g
-Gandofly,Mature Onion Bulb,100,g
-Gandofly,Butter (Unsalted),2,tbsp
-Gandofly,Salted Watermelon Seeds,1,tsp
-Kaboria,Fried Fish Finger,300,g
-Kaboria,Decorticated Broad Beans,100,g
-Kaboria,Butter Oil (Ghee),2,tbsp
-Kaboria,Sodium Reduced Salt,1,tsp
-Samak Mashwy,Salted Mullet,300,g
-Samak Mashwy,Fried Rice with Onions,100,g
-Samak Mashwy,Sesame Butter (Tehina),2,tbsp
-Samak Mashwy,Green Peppers,1,tsp
-Samak Maqly,Fried Fish Finger,300,g
-Samak Maqly,Mashed Potatoes with Meat/Egg,100,g
-Samak Maqly,Butter Oil (Ghee),2,tbsp
-Samak Maqly,Salted Biscuit (Pretzel),1,tsp
-Tagen Samak,Fried Fish Finger,300,g
-Tagen Samak,Fried Rice with Onions,100,g
-Tagen Samak,Sesame Butter (Tehina),2,tbsp
-Tagen Samak,Cumin,1,tsp
-Fesikh,Fried Fish Finger,300,g
-Fesikh,"Green Beans, Cooked",100,g
-Fesikh,Vegetable Oil,2,tbsp
-Fesikh,Green Peppers,1,tsp
-Renga,Tilapia,300,g
-Renga,Carrots,100,g
-Renga,Butter (Unsalted),2,tbsp
-Renga,Salted Watermelon Seeds,1,tsp
-Meloukhiya bel Araneb,Chicken Meat (Light),300,g
-Meloukhiya bel Araneb,Carrots,150,g
-Meloukhiya bel Araneb,Butter (Unsalted),2,tbsp
-Meloukhiya bel Araneb,Green Peppers,1,tsp
-Araneb Mashweya,Duck Meat and Skin,300,g
-Araneb Mashweya,Sweet Potatoes,150,g
-Araneb Mashweya,Sesame Butter (Tehina),2,tbsp
-Araneb Mashweya,Orange/Red/Yellow Peppers,1,tsp
-Hamam Mahshi,Chicken Meat and Skin,300,g
-Hamam Mahshi,Potatoes,150,g
-Hamam Mahshi,Butter (Unsalted),2,tbsp
-Hamam Mahshi,Salted Watermelon Seeds,1,tsp
-Ferakh Mashweya,Chicken Meat (Light),300,g
-Ferakh Mashweya,Husk Tomatoes,150,g
-Ferakh Mashweya,Sesame Butter (Tehina),2,tbsp
-Ferakh Mashweya,Salted Mullet,1,tsp
-Ferakh Fil Forn,Whole Duck Egg,300,g
-Ferakh Fil Forn,Carrots,150,g
-Ferakh Fil Forn,Vegetable Oil,2,tbsp
-Ferakh Fil Forn,Cumin,1,tsp
-Macarona Fil Forn,Fried Rice with Onions,150,g
-Macarona Fil Forn,Kidney Beans (White),100,g
-Macarona Fil Forn,Butter Oil (Ghee),2,tbsp
-Macarona Fil Forn,Salted Biscuit (Pretzel),1,tsp
-Tagen Bamia Bel Lahma,Camel Meat,250,g
-Tagen Bamia Bel Lahma,Mung Beans,100,g
-Tagen Bamia Bel Lahma,Sesame Butter (Tehina),2,tbsp
-Tagen Bamia Bel Lahma,Salted Catfish,1,tsp
-Tagen Torly,Dry Peas,150,g
-Tagen Torly,"White Kidney Beans, Cooked",100,g
-Tagen Torly,Butter (Unsalted),2,tbsp
-Tagen Torly,Salted Catfish,1,tsp
-Tagen Mesakaa,Kidney Beans (Red),150,g
-Tagen Mesakaa,Kidney Beans (Red),100,g
-Tagen Mesakaa,Vegetable Oil,2,tbsp
-Tagen Mesakaa,Salted Mullet,1,tsp
-Batates Bel Lahma,Beef Basterma,250,g
-Batates Bel Lahma,Broad Beans,100,g
-Batates Bel Lahma,Butter Oil (Ghee),2,tbsp
-Batates Bel Lahma,Salted Pumpkin Seeds,1,tsp
-Fasoulya Bel Lahma,"Cauliflower with Meat, Cooked",250,g
-Fasoulya Bel Lahma,Tomato Juice,100,g
-Fasoulya Bel Lahma,Butter Oil (Ghee),2,tbsp
-Fasoulya Bel Lahma,Cumin,1,tsp
-Lobya Bel Lahma,Veal Meat,250,g
-Lobya Bel Lahma,Tomato Roots,100,g
-Lobya Bel Lahma,Butter Oil (Ghee),2,tbsp
-Lobya Bel Lahma,Salted Sardine,1,tsp
-Sabanekh Bel Lahma,Beef Liver,250,g
-Sabanekh Bel Lahma,Round Eggplant,100,g
-Sabanekh Bel Lahma,Sesame Butter (Tehina),2,tbsp
-Sabanekh Bel Lahma,Salted Watermelon Seeds,1,tsp
-Qolqas Bel Lahma,"Rubbed Wheat with Meat, Cooked",250,g
-Qolqas Bel Lahma,"Broad Beans (Foul), Canned",100,g
-Qolqas Bel Lahma,Butter (Unsalted),2,tbsp
-Qolqas Bel Lahma,Salted Watermelon Seeds,1,tsp
-Kishk Almaz,Broad Beans,150,g
-Kishk Almaz,Decorticated Broad Beans,100,g
-Kishk Almaz,Butter (Unsalted),2,tbsp
-Kishk Almaz,Salted Pumpkin Seeds,1,tsp
-Besarah,Kidney Beans (Red),150,g
-Besarah,Orange/Red/Yellow Peppers,100,g
-Besarah,Vegetable Oil,2,tbsp
-Besarah,Orange/Red/Yellow Peppers,1,tsp
-Adss Asfar,Tomatoes,150,g
-Adss Asfar,Unpeeled Lentils,100,g
-Adss Asfar,Sesame Butter (Tehina),2,tbsp
-Adss Asfar,Orange/Red/Yellow Peppers,1,tsp
-Shorbet Adss,"Macaroni with Tomato and Meat, Cooked",150,g
-Shorbet Adss,Green Peas,100,g
-Shorbet Adss,Butter (Unsalted),2,tbsp
-Shorbet Adss,Coriander Seeds,1,tsp
-Foul Nabet,Tomato Juice,150,g
-Foul Nabet,Black or White Eggplant,100,g
-Foul Nabet,Butter (Unsalted),2,tbsp
-Foul Nabet,Orange/Red/Yellow Peppers,1,tsp
-Taameya Mahsheya,Red Pepper,150,g
-Taameya Mahsheya,Broad Beans,100,g
-Taameya Mahsheya,Butter Oil (Ghee),2,tbsp
-Taameya Mahsheya,Table/Cooking Salt,1,tsp
-Eish Baladi,"Peeled Lentils with Rice, Cooked",150,g
-Eish Baladi,Broad Beans,100,g
-Eish Baladi,Sesame Butter (Tehina),2,tbsp
-Eish Baladi,Cumin,1,tsp
-Eish Fino,Tomatoes,150,g
-Eish Fino,Pickled Green Onions,100,g
-Eish Fino,Butter (Unsalted),2,tbsp
-Eish Fino,Salted Sardine,1,tsp
-Eish Shami,Pickled Onions,150,g
-Eish Shami,Green Peas,100,g
-Eish Shami,Butter (Unsalted),2,tbsp
-Eish Shami,Salted Sardine,1,tsp
-Fiteer Meshaltet,Tomato Ketchup,150,g
-Fiteer Meshaltet,Kidney Beans (Red),100,g
-Fiteer Meshaltet,Sesame Butter (Tehina),2,tbsp
-Fiteer Meshaltet,Coriander Leaves,1,tsp
-Gollash Bel Lahma,Boiled Beef Tongue,250,g
-Gollash Bel Lahma,Green Broad Beans,100,g
-Gollash Bel Lahma,Vegetable Oil,2,tbsp
-Gollash Bel Lahma,Salted Biscuit,1,tsp
-Gollash Bel Gebna,Pickled Green Onions,150,g
-Gollash Bel Gebna,Tomatoes,100,g
-Gollash Bel Gebna,Butter Oil (Ghee),2,tbsp
-Gollash Bel Gebna,Table/Cooking Salt,1,tsp
-Roqaq Bel Lahma,Grilled Beef Sausage,250,g
-Roqaq Bel Lahma,Potato Chips,100,g
-Roqaq Bel Lahma,Vegetable Oil,2,tbsp
-Roqaq Bel Lahma,Orange/Red/Yellow Peppers,1,tsp
-Hawawshi Iskandarani,Lamb Kidneys,250,g
-Hawawshi Iskandarani,Orange/Red/Yellow Peppers,100,g
-Hawawshi Iskandarani,Butter Oil (Ghee),2,tbsp
-Hawawshi Iskandarani,Salted Biscuit,1,tsp
-Kebda Iskandarani,Potato Chips,150,g
-Kebda Iskandarani,"Peas and Carrots, Cooked",100,g
-Kebda Iskandarani,Butter Oil (Ghee),2,tbsp
-Kebda Iskandarani,Coriander Leaves,1,tsp
-Kebda Bania,Tomato Ketchup,150,g
-Kebda Bania,"Macaroni with Tomato, Cooked",100,g
-Kebda Bania,Butter (Unsalted),2,tbsp
-Kebda Bania,Coriander Leaves,1,tsp
-Mokh Bania,Fried Eggplant,150,g
-Mokh Bania,Tomatoes,100,g
-Mokh Bania,Butter (Unsalted),2,tbsp
-Mokh Bania,Salted Pumpkin Seeds,1,tsp
-Sogoq Baladi,"Green Beans, Cooked",150,g
-Sogoq Baladi,Mature Onion Bulb,100,g
-Sogoq Baladi,Vegetable Oil,2,tbsp
-Sogoq Baladi,Green Peppers,1,tsp
-Sogoq Iskandarani,Round Eggplant,150,g
-Sogoq Iskandarani,Pickled Green Onions,100,g
-Sogoq Iskandarani,Sesame Butter (Tehina),2,tbsp
-Sogoq Iskandarani,Black Pepper,1,tsp
-Kofta Mashweya,Corned Beef Meat (Canned),250,g
-Kofta Mashweya,Green Peppers,100,g
-Kofta Mashweya,Butter Oil (Ghee),2,tbsp
-Kofta Mashweya,Salted Biscuit (Pretzel),1,tsp
-Kofta Dawood Basha,Veal Meat,250,g
-Kofta Dawood Basha,Kidney Beans (Red),100,g
-Kofta Dawood Basha,Vegetable Oil,2,tbsp
-Kofta Dawood Basha,Black Pepper,1,tsp
-Koftet Roz,Mature Onion Bulb,150,g
-Koftet Roz,Green Beans,100,g
-Koftet Roz,Butter (Unsalted),2,tbsp
-Koftet Roz,Salted Catfish,1,tsp
-Koftet Gambary,"Macaroni with Tomato, Cooked",150,g
-Koftet Gambary,Kidney Beans (Red),100,g
-Koftet Gambary,Sesame Butter (Tehina),2,tbsp
-Koftet Gambary,Salted Biscuit,1,tsp
-Roz Bel Khalta,Tomato Ketchup,150,g
-Roz Bel Khalta,Broad Beans,100,g
-Roz Bel Khalta,Sesame Butter (Tehina),2,tbsp
-Roz Bel Khalta,Salted Catfish,1,tsp
-Roz Meammar,Green Peas,150,g
-Roz Meammar,Pickled Green Onions,100,g
-Roz Meammar,Sesame Butter (Tehina),2,tbsp
-Roz Meammar,Salted Sardine,1,tsp
-Roz Sayadeya,"Peas and Carrots, Cooked",150,g
-Roz Sayadeya,White Kidney Beans with Meat,100,g
-Roz Sayadeya,Butter (Unsalted),2,tbsp
-Roz Sayadeya,Salted Watermelon Seeds,1,tsp
-Roz Basmati Bel Mokasarat,White Kidney Beans with Meat,150,g
-Roz Basmati Bel Mokasarat,Husk Tomatoes,100,g
-Roz Basmati Bel Mokasarat,Sesame Butter (Tehina),2,tbsp
-Roz Basmati Bel Mokasarat,Sodium Reduced Salt,1,tsp
-Freeq Bel Lahma,Beef Basterma,250,g
-Freeq Bel Lahma,"Peeled Lentils with Rice, Cooked",100,g
-Freeq Bel Lahma,Vegetable Oil,2,tbsp
-Freeq Bel Lahma,Coriander Seeds,1,tsp
-Mahshi Kromb,Green Broad Beans,150,g
-Mahshi Kromb,Decorticated Broad Beans,100,g
-Mahshi Kromb,Butter (Unsalted),2,tbsp
-Mahshi Kromb,Salted Sardine,1,tsp
-Mahshi Waraq Enab,Broad Beans,150,g
-Mahshi Waraq Enab,"Squash, Cooked",100,g
-Mahshi Waraq Enab,Sesame Butter (Tehina),2,tbsp
-Mahshi Waraq Enab,Orange/Red/Yellow Peppers,1,tsp
-Mahshi Kousa,Green Broad Beans,150,g
-Mahshi Kousa,Mature Onion Bulb,100,g
-Mahshi Kousa,Sesame Butter (Tehina),2,tbsp
-Mahshi Kousa,Salted Mullet,1,tsp
-Mahshi Betingan,Orange/Red/Yellow Peppers,150,g
-Mahshi Betingan,Tomato Roots,100,g
-Mahshi Betingan,Sesame Butter (Tehina),2,tbsp
-Mahshi Betingan,Cumin,1,tsp
-Mahshi Felfel,Peeled Lentils (Yellow),150,g
-Mahshi Felfel,Potatoes,100,g
-Mahshi Felfel,Sesame Butter (Tehina),2,tbsp
-Mahshi Felfel,Salted Biscuit (Pretzel),1,tsp
-Tagen Freek Bel Hamam,Chicken Luncheon,300,g
-Tagen Freek Bel Hamam,Green Peas,150,g
-Tagen Freek Bel Hamam,Sesame Butter (Tehina),2,tbsp
-Tagen Freek Bel Hamam,Coriander Leaves,1,tsp
-Samak Bouri Sengar,Boiled Shrimp,300,g
-Samak Bouri Sengar,Fried Potatoes,100,g
-Samak Bouri Sengar,Butter (Unsalted),2,tbsp
-Samak Bouri Sengar,Coriander Seeds,1,tsp
-Samak Bolti Mashwy,Boiled Shrimp,300,g
-Samak Bolti Mashwy,Peeled Lentils (Yellow),100,g
-Samak Bolti Mashwy,Butter (Unsalted),2,tbsp
-Samak Bolti Mashwy,Salted Watermelon Seeds,1,tsp
-Samak Macarona Maqly,Lizard Fish,300,g
-Samak Macarona Maqly,White Kidney Beans with Meat,100,g
-Samak Macarona Maqly,Butter (Unsalted),2,tbsp
-Samak Macarona Maqly,Sodium Reduced Salt,1,tsp
-Gambary Bania,Red Pepper,150,g
-Gambary Bania,Orange/Red/Yellow Peppers,100,g
-Gambary Bania,Butter (Unsalted),2,tbsp
-Gambary Bania,Cumin,1,tsp
-Gambary Mashwy,Carrots,150,g
-Gambary Mashwy,"Macaroni with Tomato and Meat, Cooked",100,g
-Gambary Mashwy,Vegetable Oil,2,tbsp
-Gambary Mashwy,Table/Cooking Salt,1,tsp
-Sabeet Maqly,Salted Mullet,300,g
-Sabeet Maqly,Squash,100,g
-Sabeet Maqly,Sesame Butter (Tehina),2,tbsp
-Sabeet Maqly,Salted Biscuit (Pretzel),1,tsp
-Shakshouka Masreya,Garlic Bulb,150,g
-Shakshouka Masreya,Black Pepper,100,g
+Ful Medames,Cumin,1,tsp
+Ful Medames,Lemons,1,piece
+Ful Medames,Table/Cooking Salt,1,tsp
+Taameya,Decorticated Broad Beans,250,g
+Taameya,Parsley,50,g
+Taameya,Coriander Leaves,50,g
+Taameya,Garlic Bulb,20,g
+Taameya,Mature Onion Bulb,100,g
+Taameya,Vegetable Oil,500,ml
+Macarona Bechamel,Macaroni,400,g
+Macarona Bechamel,Beef Meat,300,g
+Macarona Bechamel,Mature Onion Bulb,100,g
+Macarona Bechamel,Wheat Flour (White),100,g
+Macarona Bechamel,Full Cream Milk,500,ml
+Macarona Bechamel,Butter Oil (Ghee),3,tbsp
+Om Ali,Flaky Pastry,200,g
+Om Ali,Full Cream Milk,600,ml
+Om Ali,Sugar (Sucrose),100,g
+Om Ali,Whipping Cream,150,g
+Om Ali,Almonds,50,g
+Om Ali,Raisins,50,g
+Om Ali,Butter Oil (Ghee),1,tbsp
+Moussaka Masreya,Round Eggplant,500,g
+Moussaka Masreya,Beef Meat,250,g
+Moussaka Masreya,Tomatoes,300,g
+Moussaka Masreya,Mature Onion Bulb,100,g
+Moussaka Masreya,Garlic Bulb,20,g
+Moussaka Masreya,Vegetable Oil,4,tbsp
+Roz Bel Laban,Rice Grains (Short),100,g
+Roz Bel Laban,Full Cream Milk,800,ml
+Roz Bel Laban,Sugar (Sucrose),100,g
+Roz Bel Laban,Whipping Cream,50,g
+Sayadeya,Tilapia,500,g
+Sayadeya,Rice Grains (Short),300,g
+Sayadeya,Mature Onion Bulb,200,g
+Sayadeya,Tomatoes,100,g
+Sayadeya,Cumin,2,tsp
+Sayadeya,Vegetable Oil,4,tbsp
+Kofta Mashweya,Beef Meat,500,g
+Kofta Mashweya,Mature Onion Bulb,100,g
+Kofta Mashweya,Parsley,50,g
+Kofta Mashweya,Black Pepper,1,tsp
+Kofta Mashweya,Table/Cooking Salt,1,tsp
+Fatteh Masreya,Beef Meat,500,g
+Fatteh Masreya,Rice Grains (Short),300,g
+Fatteh Masreya,Baladi Bread,2,piece
+Fatteh Masreya,Tomatoes,300,g
+Fatteh Masreya,Garlic Bulb,30,g
+Fatteh Masreya,Butter Oil (Ghee),2,tbsp
+Fatteh Masreya,Table/Cooking Salt,2,tsp
+Shorbet Adss,Peeled Lentils (Yellow),250,g
+Shorbet Adss,Tomatoes,100,g
+Shorbet Adss,Mature Onion Bulb,100,g
+Shorbet Adss,Carrots,100,g
+Shorbet Adss,Garlic Bulb,20,g
+Shorbet Adss,Cumin,1,tsp
+Shakshouka Masreya,Whole Chicken Egg,4,piece
+Shakshouka Masreya,Tomatoes,200,g
+Shakshouka Masreya,Mature Onion Bulb,100,g
+Shakshouka Masreya,Green Peppers,100,g
 Shakshouka Masreya,Vegetable Oil,2,tbsp
-Shakshouka Masreya,Salted Sardine,1,tsp
-Foul Bel Salsa,Tomato Roots,150,g
-Foul Bel Salsa,Mashed Potatoes with Milk,100,g
-Foul Bel Salsa,Sesame Butter (Tehina),2,tbsp
-Foul Bel Salsa,Orange/Red/Yellow Peppers,1,tsp
-Foul Bel Ziet Wel Lamoun,Dry Peas,150,g
-Foul Bel Ziet Wel Lamoun,"Broad Beans (Foul), Canned",100,g
-Foul Bel Ziet Wel Lamoun,Vegetable Oil,2,tbsp
-Foul Bel Ziet Wel Lamoun,Cumin,1,tsp
-Foul Bel Zebda,White Kidney Beans with Meat,150,g
-Foul Bel Zebda,Fried Potatoes,100,g
-Foul Bel Zebda,Butter (Unsalted),2,tbsp
-Foul Bel Zebda,Salted Mullet,1,tsp
-Foul Bel Tcheena,Mature Onion Bulb,150,g
-Foul Bel Tcheena,Pickled Green Onions,100,g
-Foul Bel Tcheena,Butter (Unsalted),2,tbsp
-Foul Bel Tcheena,Salted Sardine,1,tsp
-Foul Bel Sogoq,Garlic Bulb,150,g
-Foul Bel Sogoq,Unpeeled Lentils,100,g
-Foul Bel Sogoq,Butter (Unsalted),2,tbsp
-Foul Bel Sogoq,Red Pepper,1,tsp
-Foul Bel Baid,"Green Beans, Cooked",150,g
-Foul Bel Baid,Pickled Onions,100,g
-Foul Bel Baid,Sesame Butter (Tehina),2,tbsp
-Foul Bel Baid,Orange/Red/Yellow Peppers,1,tsp
-Taameya Bel Baid,Tomatoes,150,g
-Taameya Bel Baid,"Peeled Lentils with Rice, Cooked",100,g
-Taameya Bel Baid,Butter (Unsalted),2,tbsp
-Taameya Bel Baid,Coriander Seeds,1,tsp
-Gebna Qareesh Bel Tamatem,Fried Eggplant,150,g
-Gebna Qareesh Bel Tamatem,Potato Chips,100,g
-Gebna Qareesh Bel Tamatem,Butter (Unsalted),2,tbsp
-Gebna Qareesh Bel Tamatem,Sodium Reduced Salt,1,tsp
-Mish Masry,"Peas and Carrots, Cooked",150,g
-Mish Masry,Broad Beans,100,g
-Mish Masry,Butter (Unsalted),2,tbsp
-Mish Masry,Green Peppers,1,tsp
-Zabadi Baladi,Potatoes,150,g
-Zabadi Baladi,"Eggplant, Cooked",100,g
-Zabadi Baladi,Butter (Unsalted),2,tbsp
-Zabadi Baladi,Salted Catfish,1,tsp
-Baid Bel Basterma,Pickled Onions,150,g
-Baid Bel Basterma,Squash,100,g
-Baid Bel Basterma,Butter (Unsalted),2,tbsp
-Baid Bel Basterma,Salted Catfish,1,tsp
-Baid Bel Sogoq,Mashed Potatoes with Milk,150,g
-Baid Bel Sogoq,Peeled Lentils (Yellow),100,g
-Baid Bel Sogoq,Butter (Unsalted),2,tbsp
-Baid Bel Sogoq,Coriander Leaves,1,tsp
-Baid Mesalouq,Pickled Green Onions,150,g
-Baid Mesalouq,Tomato Juice,100,g
-Baid Mesalouq,Sesame Butter (Tehina),2,tbsp
-Baid Mesalouq,Salted Pumpkin Seeds,1,tsp
-Baid Maqly,Green Beans,150,g
-Baid Maqly,Husk Tomatoes,100,g
-Baid Maqly,Vegetable Oil,2,tbsp
-Baid Maqly,Salted Watermelon Seeds,1,tsp
-Baid Omelet Masry,Black Pepper,150,g
-Baid Omelet Masry,Green Peas,100,g
-Baid Omelet Masry,Butter (Unsalted),2,tbsp
-Baid Omelet Masry,Black Pepper,1,tsp
-Shorbet Lesan Asfour,"Eggplant, Cooked",150,g
-Shorbet Lesan Asfour,Green Peas,100,g
-Shorbet Lesan Asfour,Butter (Unsalted),2,tbsp
-Shorbet Lesan Asfour,Salted Biscuit (Pretzel),1,tsp
-Shorbet Khodar,Fried Eggplant,150,g
-Shorbet Khodar,Garlic Bulb,100,g
-Shorbet Khodar,Butter (Unsalted),2,tbsp
-Shorbet Khodar,Salted Watermelon Seeds,1,tsp
-Shorbet Kawaree,"Green Beans, Cooked",150,g
-Shorbet Kawaree,"Eggplant, Cooked",100,g
-Shorbet Kawaree,Butter (Unsalted),2,tbsp
-Shorbet Kawaree,Red Pepper,1,tsp
-Shorbet Kharshouf,Green Peas,150,g
-Shorbet Kharshouf,Tomato Roots,100,g
-Shorbet Kharshouf,Vegetable Oil,2,tbsp
-Shorbet Kharshouf,Black Pepper,1,tsp
-Salatat Baladi,Carrots,150,g
-Salatat Baladi,Tomato Roots,100,g
-Salatat Baladi,Butter Oil (Ghee),2,tbsp
-Salatat Baladi,Salted Catfish,1,tsp
-Salatat Teheena,Pickled Green Onions,150,g
-Salatat Teheena,Black or White Eggplant,100,g
-Salatat Teheena,Butter (Unsalted),2,tbsp
-Salatat Teheena,Cumin,1,tsp
-Salatat Baba Ghanoush,"Eggplant, Cooked",150,g
-Salatat Baba Ghanoush,"Macaroni with Tomato, Cooked",100,g
-Salatat Baba Ghanoush,Butter Oil (Ghee),2,tbsp
-Salatat Baba Ghanoush,Green Peppers,1,tsp
-Salatat Hummus,Mature Onion Bulb,150,g
-Salatat Hummus,Green Broad Beans,100,g
-Salatat Hummus,Butter (Unsalted),2,tbsp
-Salatat Hummus,Salted Biscuit (Pretzel),1,tsp
-Salatat Zabad Bel Khiar,Black Pepper,150,g
-Salatat Zabad Bel Khiar,"Green Beans, Cooked",100,g
-Salatat Zabad Bel Khiar,Sesame Butter (Tehina),2,tbsp
-Salatat Zabad Bel Khiar,Table/Cooking Salt,1,tsp
-Torshy Baladi,Pickled Green Onions,150,g
-Torshy Baladi,"Green Beans, Cooked",100,g
-Torshy Baladi,Sesame Butter (Tehina),2,tbsp
-Torshy Baladi,Green Peppers,1,tsp
-Betingan Mekhalel,Fried Potatoes,150,g
-Betingan Mekhalel,Mashed Potatoes with Meat/Egg,100,g
-Betingan Mekhalel,Butter Oil (Ghee),2,tbsp
-Betingan Mekhalel,Salted Watermelon Seeds,1,tsp
-Tamatem Mekhalela,Green Broad Beans,150,g
-Tamatem Mekhalela,Decorticated Broad Beans,100,g
-Tamatem Mekhalela,Butter Oil (Ghee),2,tbsp
-Tamatem Mekhalela,Red Pepper,1,tsp
-Basbousa Bel Keshta,Sugarcane Juice,100,g
-Basbousa Bel Keshta,Camembert Cheese,150,ml
-Basbousa Bel Keshta,Sesame Butter (Tehina),50,g
-Basbousa Bel Keshta,Chocolate Coated Biscuit,50,g
-Konafa Bel Mange,Instant Chocolate Drink,100,g
-Konafa Bel Mange,Gouda Cheese,150,ml
-Konafa Bel Mange,Sesame Butter (Tehina),50,g
-Konafa Bel Mange,Instant Chocolate Drink,50,g
-Konafa Bel Keshta,Chocolate Milk,100,g
-Konafa Bel Keshta,Mashed Potatoes with Milk,150,ml
-Konafa Bel Keshta,Butter Oil (Ghee),50,g
-Konafa Bel Keshta,Chocolate with Nuts,50,g
-Qatayef Bel Mokasarat,Chocolate Topping,100,g
-Qatayef Bel Mokasarat,Milk Chocolate,150,ml
-Qatayef Bel Mokasarat,Sesame Butter (Tehina),50,g
-Qatayef Bel Mokasarat,Chocolate with Nuts,50,g
-Qatayef Bel Keshta,Chocolate Coated Wafer Biscuit,100,g
-Qatayef Bel Keshta,"White Cheese, Half Cream",150,ml
-Qatayef Bel Keshta,Butter (Unsalted),50,g
-Qatayef Bel Keshta,Milk Chocolate,50,g
-Zalabia,Honey,100,g
-Zalabia,Kareesh Cheese (Mish),150,ml
-Zalabia,Sesame Butter (Tehina),50,g
-Zalabia,Chocolate Coated Wafer Biscuit,50,g
-Balah El Sham,Milk Chocolate,100,g
-Balah El Sham,Low Fat Kareesh Cheese,150,ml
-Balah El Sham,Vegetable Oil,50,g
-Balah El Sham,Chocolate with Nuts,50,g
-Sohlob,Pickled Onions,150,g
-Sohlob,Dry Peas,100,g
-Sohlob,Vegetable Oil,2,tbsp
-Sohlob,Black Pepper,1,tsp
-Karkadeh,"Green Beans, Cooked",150,g
-Karkadeh,Mashed Potatoes with Milk,100,g
-Karkadeh,Butter (Unsalted),2,tbsp
-Karkadeh,Salted Sardine,1,tsp
-Tamr Hindi,Fried Potatoes,150,g
-Tamr Hindi,Husk Tomatoes,100,g
-Tamr Hindi,Vegetable Oil,2,tbsp
-Tamr Hindi,Red Pepper,1,tsp
-Kharoub,Kidney Beans (Red),150,g
-Kharoub,Mashed Potatoes with Milk,100,g
-Kharoub,Butter (Unsalted),2,tbsp
-Kharoub,Salted Pumpkin Seeds,1,tsp
-Baklava,Chocolate with Nuts,100,g
-Baklava,Full Cream Milk,150,ml
-Baklava,Butter (Unsalted),50,g
-Baklava,Sugarcane Juice,50,g
+Kabab Halla,Beef Meat,500,g
+Kabab Halla,Mature Onion Bulb,500,g
+Kabab Halla,Butter Oil (Ghee),2,tbsp
+Kabab Halla,Black Pepper,1,tsp
+Tagen Bamia Bel Lahma,Okra,400,g
+Tagen Bamia Bel Lahma,Beef Meat,300,g
+Tagen Bamia Bel Lahma,Tomatoes,300,g
+Tagen Bamia Bel Lahma,Mature Onion Bulb,100,g
+Tagen Bamia Bel Lahma,Garlic Bulb,20,g
+Tagen Bamia Bel Lahma,Coriander Seeds,1,tsp
+Salatat Baladi,Tomatoes,200,g
+Salatat Baladi,Cucumber,200,g
+Salatat Baladi,Mature Onion Bulb,50,g
+Salatat Baladi,Parsley,20,g
+Salatat Baladi,Lemons,1,piece
+Baid Bel Basterma,Whole Chicken Egg,3,piece
+Baid Bel Basterma,Beef Basterma,100,g
+Baid Bel Basterma,Butter Oil (Ghee),1,tbsp
+Hawawshi,Baladi Bread,4,piece
+Hawawshi,Beef Meat,400,g
+Hawawshi,Mature Onion Bulb,150,g
+Hawawshi,Green Peppers,100,g
+Hawawshi,Black Pepper,1,tsp
+Kebda Iskandarani,Beef Liver,300,g
+Kebda Iskandarani,Garlic Bulb,30,g
+Kebda Iskandarani,Green Peppers,100,g
+Kebda Iskandarani,Cumin,1,tsp
+Kebda Iskandarani,Vegetable Oil,2,tbsp
