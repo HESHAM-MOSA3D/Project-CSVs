@@ -53,8 +53,6 @@ Fried Rice with Noodles,أرز بالشعرية,2
 Fried Rice with Onions,Rice,1
 Fried Rice with Onions,Onions,1
 Fried Rice with Onions,أرز بالبصل,2
-Fortified Rice Baby Food,Rice,1
-Fortified Rice Baby Food,أرز مدعم للأطفال,2
 Rice (Koshari),Rice,1
 Rice (Koshari),Koshari,1
 Rice (Koshari),كشري,2
@@ -86,8 +84,6 @@ Wheat Flour (Brown),دقيق أسمر,2
 Wheat Flour (White),Wheat,1
 Wheat Flour (White),Flour,1
 Wheat Flour (White),دقيق أبيض,2
-Fortified Wheat Baby Food,Wheat,1
-Fortified Wheat Baby Food,قمح مدعم للأطفال,2
 "Wheat Koskos, Plain",Wheat,1
 "Wheat Koskos, Plain",Koskos,1
 "Wheat Koskos, Plain",كسكسي سادة,2
@@ -883,10 +879,6 @@ Buffalo Milk,لبن جاموسي,2
 Cow Milk,Cow,1
 Cow Milk,Milk,1
 Cow Milk,لبن بقري,2
-Human Milk,Human,1
-Human Milk,Milk,1
-Human Milk,لبن أم,2
-Human Milk,حليب أم,2
 Chocolate Milk,Chocolate,1
 Chocolate Milk,Milk,1
 Chocolate Milk,لبن بالشوكولاتة,2
