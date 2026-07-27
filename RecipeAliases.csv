@@ -1,372 +1,635 @@
 RecipeName,Alias,Language
 Gebna Beda ma Zeitoun,Gebna Beda ma Zeitoun,English
-Gebna Beda ma Zeitoun,GebnaBedamaZeitoun,English
 Gebna Beda ma Zeitoun,Gebna Beda ma Zeitoon,English
-Gebna Beda ma Zeitoun,وصفة Gebna Beda ma Zeitoun,Arabic
+Gebna Beda ma Zeitoun,جبنة بيضا بالزيتون,Arabic
+Gebna Beda ma Zeitoun,Gebna beda bel zaytoon,Franco
+Gebna Beda ma Zeitoun,Gebna beida bel zaytoon,Franco
 Zabady bel Asal wal Mekasarat,Zabady bel Asal wal Mekasarat,English
-Zabady bel Asal wal Mekasarat,ZabadybelAsalwalMekasarat,English
-Zabady bel Asal wal Mekasarat,وصفة Zabady bel Asal wal Mekasarat,Arabic
+Zabady bel Asal wal Mekasarat,Zabadi bel Asal,English
+Zabady bel Asal wal Mekasarat,زبادي بالعسل والمكسرات,Arabic
+Zabady bel Asal wal Mekasarat,Zabady bel 3asal wal mekasarat,Franco
 Ful Nabet bel Salata,Ful Nabet bel Salata,English
-Ful Nabet bel Salata,FulNabetbelSalata,English
-Ful Nabet bel Salata,وصفة Ful Nabet bel Salata,Arabic
+Ful Nabet bel Salata,Foul Nabet,English
+Ful Nabet bel Salata,Ful Nabet,English
+Ful Nabet bel Salata,فول نابت بالسلطة,Arabic
+Ful Nabet bel Salata,Foul nabet bel salata,Franco
 Basterma Mashwia,Basterma Mashwia,English
-Basterma Mashwia,BastermaMashwia,English
-Basterma Mashwia,وصفة Basterma Mashwia,Arabic
+Basterma Mashwia,Grilled Basturma,English
+Basterma Mashwia,Basterma Mashweya,English
+Basterma Mashwia,بسطرمة مشوية,Arabic
+Basterma Mashwia,Basterma mashweya,Franco
 Homos Sham Mohammas,Homos Sham Mohammas,English
-Homos Sham Mohammas,HomosShamMohammas,English
-Homos Sham Mohammas,وصفة Homos Sham Mohammas,Arabic
+Homos Sham Mohammas,Roasted Chickpeas,English
+Homos Sham Mohammas,Hommos Sham,English
+Homos Sham Mohammas,حمص شام محمص,Arabic
+Homos Sham Mohammas,7ommos sham me7ammas,Franco
 Aish Baladi Homemade,Aish Baladi Homemade,English
-Aish Baladi Homemade,AishBaladiHomemade,English
-Aish Baladi Homemade,وصفة Aish Baladi Homemade,Arabic
+Aish Baladi Homemade,Homemade Aish Baladi,English
+Aish Baladi Homemade,Aish Baladi,English
+Aish Baladi Homemade,عيش بلدي بيتي,Arabic
+Aish Baladi Homemade,عيش بلدي,Arabic
+Aish Baladi Homemade,3esh balady,Franco
 Semit Masri,Semit Masri,English
-Semit Masri,SemitMasri,English
-Semit Masri,وصفة Semit Masri,Arabic
+Semit Masri,Egyptian Simit,English
+Semit Masri,Semiet,English
+Semit Masri,سميط مصري,Arabic
+Semit Masri,سميط,Arabic
+Semit Masri,Semeet masry,Franco
+Semit Masri,Semeet,Franco
 Fiteer bel Gebna wal Basterma,Fiteer bel Gebna wal Basterma,English
-Fiteer bel Gebna wal Basterma,FiteerbelGebnawalBasterma,English
-Fiteer bel Gebna wal Basterma,وصفة Fiteer bel Gebna wal Basterma,Arabic
+Fiteer bel Gebna wal Basterma,Fiteer Basterma,English
+Fiteer bel Gebna wal Basterma,فطير بالجبنة والبسطرمة,Arabic
+Fiteer bel Gebna wal Basterma,Feteer bel gebna wal basterma,Franco
 Shorbet Kishk,Shorbet Kishk,English
-Shorbet Kishk,ShorbetKishk,English
-Shorbet Kishk,وصفة Shorbet Kishk,Arabic
+Shorbet Kishk,Kishk Soup,English
+Shorbet Kishk,شوربة كشك,Arabic
+Shorbet Kishk,Shorbet keshk,Franco
 Kishk bel Samna,Kishk bel Samna,English
-Kishk bel Samna,KishkbelSamna,English
-Kishk bel Samna,وصفة Kishk bel Samna,Arabic
+Kishk bel Samna,كشك بالسمنة,Arabic
+Kishk bel Samna,Keshk bel samna,Franco
 Shorbet Sha'ria,Shorbet Sha'ria,English
-Shorbet Sha'ria,ShorbetSha'ria,English
-Shorbet Sha'ria,وصفة Shorbet Sha'ria,Arabic
+Shorbet Sha'ria,Orzo Soup,English
+Shorbet Sha'ria,Lesan Asfour Soup,English
+Shorbet Sha'ria,شوربة شعرية,Arabic
+Shorbet Sha'ria,Shorbet sha3reya,Franco
 Shorbet Samak,Shorbet Samak,English
-Shorbet Samak,ShorbetSamak,English
-Shorbet Samak,وصفة Shorbet Samak,Arabic
+Shorbet Samak,Seafood Soup,English
+Shorbet Samak,شوربة سمك,Arabic
+Shorbet Samak,شوربة سي فود,Arabic
+Shorbet Samak,Shorbet samak,Franco
+Shorbet Samak,Shorbet seafood,Franco
 Shorbet Hamam,Shorbet Hamam,English
-Shorbet Hamam,ShorbetHamam,English
-Shorbet Hamam,وصفة Shorbet Hamam,Arabic
+Shorbet Hamam,Pigeon Soup,English
+Shorbet Hamam,شوربة حمام,Arabic
+Shorbet Hamam,Shorbet 7amam,Franco
 Salatet Tahina Sada,Salatet Tahina Sada,English
-Salatet Tahina Sada,SalatetTahinaSada,English
-Salatet Tahina Sada,وصفة Salatet Tahina Sada,Arabic
+Salatet Tahina Sada,Tahini Salad,English
+Salatet Tahina Sada,Tahina,English
+Salatet Tahina Sada,سلطة طحينة سادة,Arabic
+Salatet Tahina Sada,سلطة طحينة,Arabic
+Salatet Tahina Sada,Salatet te7ina,Franco
 Salsa Toum,Salsa Toum,English
-Salsa Toum,SalsaToum,English
 Salsa Toum,Salsa Toom,English
-Salsa Toum,وصفة Salsa Toum,Arabic
+Salsa Toum,Garlic Sauce,English
+Salsa Toum,Tomia,English
+Salsa Toum,صلصة ثوم,Arabic
+Salsa Toum,تومية,Arabic
+Salsa Toum,Salset tom,Franco
+Salsa Toum,Tomeya,Franco
 Salatet Zabadi bel Toum,Salatet Zabadi bel Toum,English
-Salatet Zabadi bel Toum,SalatetZabadibelToum,English
-Salatet Zabadi bel Toum,Salatet Zabadi bel Toom,English
-Salatet Zabadi bel Toum,وصفة Salatet Zabadi bel Toum,Arabic
+Salatet Zabadi bel Toum,Yogurt Salad with Garlic,English
+Salatet Zabadi bel Toum,Salatet Zabadi,English
+Salatet Zabadi bel Toum,سلطة زبادي بالثوم,Arabic
+Salatet Zabadi bel Toum,سلطة زبادي,Arabic
+Salatet Zabadi bel Toum,Salatet zabady bel tom,Franco
 Dukkah Masri,Dukkah Masri,English
-Dukkah Masri,DukkahMasri,English
-Dukkah Masri,وصفة Dukkah Masri,Arabic
+Dukkah Masri,Egyptian Dukkah,English
+Dukkah Masri,Duqqa,English
+Dukkah Masri,دقة مصرية,Arabic
+Dukkah Masri,دقة,Arabic
+Dukkah Masri,Do22a masreya,Franco
+Dukkah Masri,Do22a,Franco
 Ful Akhdar bel Lahma,Ful Akhdar bel Lahma,English
-Ful Akhdar bel Lahma,FulAkhdarbelLahma,English
-Ful Akhdar bel Lahma,وصفة Ful Akhdar bel Lahma,Arabic
+Ful Akhdar bel Lahma,Foul Akhdar,English
+Ful Akhdar bel Lahma,Green Fava Beans with Meat,English
+Ful Akhdar bel Lahma,فول أخضر باللحمة,Arabic
+Ful Akhdar bel Lahma,Foul a5dar bel la7ma,Franco
 Loubia Khadra bel Lahma,Loubia Khadra bel Lahma,English
-Loubia Khadra bel Lahma,LoubiaKhadrabelLahma,English
 Loubia Khadra bel Lahma,Loobia Khadra bel Lahma,English
-Loubia Khadra bel Lahma,وصفة Loubia Khadra bel Lahma,Arabic
+Loubia Khadra bel Lahma,Green Beans with Meat,English
+Loubia Khadra bel Lahma,لوبيا خضرا باللحمة,Arabic
+Loubia Khadra bel Lahma,لوبيا باللحمة,Arabic
+Loubia Khadra bel Lahma,Loubya 5adra bel la7ma,Franco
 Qolqas bel Lahma,Qolqas bel Lahma,English
-Qolqas bel Lahma,QolqasbelLahma,English
-Qolqas bel Lahma,وصفة Qolqas bel Lahma,Arabic
+Qolqas bel Lahma,Colocasia with Meat,English
+Qolqas bel Lahma,Taro with Meat,English
+Qolqas bel Lahma,Qolqas,English
+Qolqas bel Lahma,قلقاس باللحمة,Arabic
+Qolqas bel Lahma,قلقاس,Arabic
+Qolqas bel Lahma,2ol2as bel la7ma,Franco
 Habb Al-Aziz Muhamas,Habb Al-Aziz Muhamas,English
-Habb Al-Aziz Muhamas,HabbAl-AzizMuhamas,English
-Habb Al-Aziz Muhamas,وصفة Habb Al-Aziz Muhamas,Arabic
+Habb Al-Aziz Muhamas,Roasted Tiger Nuts,English
+Habb Al-Aziz Muhamas,حب العزيز محمص,Arabic
+Habb Al-Aziz Muhamas,حب العزيز,Arabic
+Habb Al-Aziz Muhamas,7abb el 3azeez me7ammas,Franco
 Fasolia Khadra bel Lahma,Fasolia Khadra bel Lahma,English
-Fasolia Khadra bel Lahma,FasoliaKhadrabelLahma,English
-Fasolia Khadra bel Lahma,وصفة Fasolia Khadra bel Lahma,Arabic
+Fasolia Khadra bel Lahma,Fasolia Khadra,English
+Fasolia Khadra bel Lahma,فاصوليا خضرا باللحمة,Arabic
+Fasolia Khadra bel Lahma,فاصوليا باللحمة,Arabic
+Fasolia Khadra bel Lahma,Fasoulya 5adra bel la7ma,Franco
 Bazella bel Lahma,Bazella bel Lahma,English
-Bazella bel Lahma,BazellabelLahma,English
-Bazella bel Lahma,وصفة Bazella bel Lahma,Arabic
+Bazella bel Lahma,Besella bel Lahma,English
+Bazella bel Lahma,Peas and Carrots with Meat,English
+Bazella bel Lahma,بسلة باللحمة,Arabic
+Bazella bel Lahma,Besella bel la7ma,Franco
 Sabanekh bel Lahma,Sabanekh bel Lahma,English
-Sabanekh bel Lahma,SabanekhbelLahma,English
-Sabanekh bel Lahma,وصفة Sabanekh bel Lahma,Arabic
+Sabanekh bel Lahma,Spinach with Meat,English
+Sabanekh bel Lahma,Sabanekh,English
+Sabanekh bel Lahma,سبانخ باللحمة,Arabic
+Sabanekh bel Lahma,Sabanek5 bel la7ma,Franco
 Salatet Sabanekh,Salatet Sabanekh,English
-Salatet Sabanekh,SalatetSabanekh,English
-Salatet Sabanekh,وصفة Salatet Sabanekh,Arabic
+Salatet Sabanekh,Spinach Salad,English
+Salatet Sabanekh,سلطة سبانخ,Arabic
+Salatet Sabanekh,Salatet sabane5,Franco
 Silq bel Lahma,Silq bel Lahma,English
-Silq bel Lahma,SilqbelLahma,English
-Silq bel Lahma,وصفة Silq bel Lahma,Arabic
+Silq bel Lahma,Swiss Chard with Meat,English
+Silq bel Lahma,سلق باللحمة,Arabic
+Silq bel Lahma,Sel2 bel la7ma,Franco
 Kousa bel Lahma,Kousa bel Lahma,English
-Kousa bel Lahma,KousabelLahma,English
 Kousa bel Lahma,Koosa bel Lahma,English
-Kousa bel Lahma,وصفة Kousa bel Lahma,Arabic
+Kousa bel Lahma,Zucchini with Meat,English
+Kousa bel Lahma,كوسة باللحمة,Arabic
+Kousa bel Lahma,Kousa bel la7ma,Franco
 Batates bel Lahma,Batates bel Lahma,English
-Batates bel Lahma,BatatesbelLahma,English
-Batates bel Lahma,وصفة Batates bel Lahma,Arabic
+Batates bel Lahma,Potato with Meat,English
+Batates bel Lahma,Saniyet Batates,English
+Batates bel Lahma,بطاطس باللحمة,Arabic
+Batates bel Lahma,صينية بطاطس باللحمة,Arabic
+Batates bel Lahma,Batates bel la7ma,Franco
+Batates bel Lahma,Saneyet batates,Franco
 Torshi Betengan,Torshi Betengan,English
-Torshi Betengan,TorshiBetengan,English
-Torshi Betengan,وصفة Torshi Betengan,Arabic
+Torshi Betengan,Pickled Eggplant,English
+Torshi Betengan,طرشي بتنجان,Arabic
+Torshi Betengan,بتنجان مخلل,Arabic
+Torshi Betengan,Torshy betengan,Franco
+Torshi Betengan,Betengan me5allel,Franco
 Torshi Malfouf,Torshi Malfouf,English
-Torshi Malfouf,TorshiMalfouf,English
-Torshi Malfouf,Torshi Malfoof,English
-Torshi Malfouf,وصفة Torshi Malfouf,Arabic
+Torshi Malfouf,Pickled Cabbage,English
+Torshi Malfouf,Torshi Koromb,English
+Torshi Malfouf,طرشي ملفوف,Arabic
+Torshi Malfouf,كرنب مخلل,Arabic
+Torshi Malfouf,Torshy malfouf,Franco
+Torshi Malfouf,Koromb me5allel,Franco
 Torshi Left,Torshi Left,English
-Torshi Left,TorshiLeft,English
-Torshi Left,وصفة Torshi Left,Arabic
+Torshi Left,Pickled Turnip,English
+Torshi Left,طرشي لفت,Arabic
+Torshi Left,لفت مخلل,Arabic
+Torshi Left,Torshy left,Franco
+Torshi Left,Left me5allel,Franco
 Torshi Gazar,Torshi Gazar,English
-Torshi Gazar,TorshiGazar,English
-Torshi Gazar,وصفة Torshi Gazar,Arabic
+Torshi Gazar,Pickled Carrots,English
+Torshi Gazar,طرشي جزر,Arabic
+Torshi Gazar,جزر مخلل,Arabic
+Torshi Gazar,Torshy gazar,Franco
+Torshi Gazar,Gazar me5allel,Franco
 Torshi Khiar,Torshi Khiar,English
-Torshi Khiar,TorshiKhiar,English
-Torshi Khiar,وصفة Torshi Khiar,Arabic
+Torshi Khiar,Pickled Cucumber,English
+Torshi Khiar,طرشي خيار,Arabic
+Torshi Khiar,خيار مخلل,Arabic
+Torshi Khiar,Torshy 5yar,Franco
+Torshi Khiar,5yar me5allel,Franco
 Torshi Basal,Torshi Basal,English
-Torshi Basal,TorshiBasal,English
-Torshi Basal,وصفة Torshi Basal,Arabic
+Torshi Basal,Pickled Onions,English
+Torshi Basal,طرشي بصل,Arabic
+Torshi Basal,بصل مخلل,Arabic
+Torshi Basal,Torshy basal,Franco
+Torshi Basal,Basal me5allel,Franco
 Torshi Filfil,Torshi Filfil,English
-Torshi Filfil,TorshiFilfil,English
-Torshi Filfil,وصفة Torshi Filfil,Arabic
+Torshi Filfil,Pickled Peppers,English
+Torshi Filfil,طرشي فلفل,Arabic
+Torshi Filfil,فلفل مخلل,Arabic
+Torshi Filfil,Torshy felfel,Franco
+Torshi Filfil,Felfel me5allel,Franco
 Salatet Betengan Mashwi,Salatet Betengan Mashwi,English
-Salatet Betengan Mashwi,SalatetBetenganMashwi,English
-Salatet Betengan Mashwi,وصفة Salatet Betengan Mashwi,Arabic
+Salatet Betengan Mashwi,Baba Ghanoush,English
+Salatet Betengan Mashwi,Grilled Eggplant Salad,English
+Salatet Betengan Mashwi,سلطة بتنجان مشوي,Arabic
+Salatet Betengan Mashwi,بابا غنوج,Arabic
+Salatet Betengan Mashwi,Salatet betengan mashwy,Franco
+Salatet Betengan Mashwi,Baba ghanoug,Franco
 Salatet Loubia,Salatet Loubia,English
-Salatet Loubia,SalatetLoubia,English
+Salatet Loubia,Black Eyed Peas Salad,English
 Salatet Loubia,Salatet Loobia,English
-Salatet Loubia,وصفة Salatet Loubia,Arabic
+Salatet Loubia,سلطة لوبيا,Arabic
+Salatet Loubia,Salatet loubya,Franco
 Salatet Fasolia Beida,Salatet Fasolia Beida,English
-Salatet Fasolia Beida,SalatetFasoliaBeida,English
-Salatet Fasolia Beida,وصفة Salatet Fasolia Beida,Arabic
+Salatet Fasolia Beida,White Bean Salad,English
+Salatet Fasolia Beida,Fasolia Salad,English
+Salatet Fasolia Beida,سلطة فاصوليا بيضا,Arabic
+Salatet Fasolia Beida,Salatet fasoulya beida,Franco
 Salatet Batates,Salatet Batates,English
-Salatet Batates,SalatetBatates,English
-Salatet Batates,وصفة Salatet Batates,Arabic
+Salatet Batates,Potato Salad,English
+Salatet Batates,سلطة بطاطس,Arabic
+Salatet Batates,Salatet batates,Franco
 Salatet Bengar,Salatet Bengar,English
-Salatet Bengar,SalatetBengar,English
-Salatet Bengar,وصفة Salatet Bengar,Arabic
+Salatet Bengar,Beetroot Salad,English
+Salatet Bengar,سلطة بنجر,Arabic
+Salatet Bengar,Salatet bangar,Franco
 Salatet Filfil Mashwi,Salatet Filfil Mashwi,English
-Salatet Filfil Mashwi,SalatetFilfilMashwi,English
-Salatet Filfil Mashwi,وصفة Salatet Filfil Mashwi,Arabic
+Salatet Filfil Mashwi,Grilled Pepper Salad,English
+Salatet Filfil Mashwi,سلطة فلفل مشوي,Arabic
+Salatet Filfil Mashwi,Salatet felfel mashwy,Franco
 Salatet Karnabeet,Salatet Karnabeet,English
-Salatet Karnabeet,SalatetKarnabeet,English
-Salatet Karnabeet,وصفة Salatet Karnabeet,Arabic
+Salatet Karnabeet,Cauliflower Salad,English
+Salatet Karnabeet,سلطة قرنبيط,Arabic
+Salatet Karnabeet,Salatet arnabyt,Franco
 Karnabeet Meqli bel Tahina,Karnabeet Meqli bel Tahina,English
-Karnabeet Meqli bel Tahina,KarnabeetMeqlibelTahina,English
-Karnabeet Meqli bel Tahina,وصفة Karnabeet Meqli bel Tahina,Arabic
+Karnabeet Meqli bel Tahina,Fried Cauliflower with Tahini,English
+Karnabeet Meqli bel Tahina,قرنبيط مقلي بالطحينة,Arabic
+Karnabeet Meqli bel Tahina,قرنبيط مقلي,Arabic
+Karnabeet Meqli bel Tahina,Arnabyt me2ly,Franco
+Karnabeet Meqli bel Tahina,Arnabyt ma2ly,Franco
 Mahshi Koussa bi Roz,Mahshi Koussa bi Roz,English
-Mahshi Koussa bi Roz,MahshiKoussabiRoz,English
 Mahshi Koussa bi Roz,Mahshi Koossa bi Roz,English
-Mahshi Koussa bi Roz,وصفة Mahshi Koussa bi Roz,Arabic
+Mahshi Koussa bi Roz,Stuffed Zucchini,English
+Mahshi Koussa bi Roz,محشي كوسة بالرز,Arabic
+Mahshi Koussa bi Roz,محشي كوسة,Arabic
+Mahshi Koussa bi Roz,Ma7shy kousa,Franco
 Mahshi Betengan bi Roz,Mahshi Betengan bi Roz,English
-Mahshi Betengan bi Roz,MahshiBetenganbiRoz,English
-Mahshi Betengan bi Roz,وصفة Mahshi Betengan bi Roz,Arabic
+Mahshi Betengan bi Roz,Stuffed Eggplant,English
+Mahshi Betengan bi Roz,محشي بتنجان بالرز,Arabic
+Mahshi Betengan bi Roz,محشي بتنجان,Arabic
+Mahshi Betengan bi Roz,Ma7shy betengan,Franco
 Mahshi Filfil bi Roz,Mahshi Filfil bi Roz,English
-Mahshi Filfil bi Roz,MahshiFilfilbiRoz,English
-Mahshi Filfil bi Roz,وصفة Mahshi Filfil bi Roz,Arabic
+Mahshi Filfil bi Roz,Stuffed Peppers,English
+Mahshi Filfil bi Roz,محشي فلفل بالرز,Arabic
+Mahshi Filfil bi Roz,محشي فلفل,Arabic
+Mahshi Filfil bi Roz,Ma7shy felfel,Franco
 Mahshi Tamatem,Mahshi Tamatem,English
-Mahshi Tamatem,MahshiTamatem,English
-Mahshi Tamatem,وصفة Mahshi Tamatem,Arabic
+Mahshi Tamatem,Stuffed Tomatoes,English
+Mahshi Tamatem,محشي طماطم,Arabic
+Mahshi Tamatem,Ma7shy tamatem,Franco
 Mahshi Basal,Mahshi Basal,English
-Mahshi Basal,MahshiBasal,English
-Mahshi Basal,وصفة Mahshi Basal,Arabic
+Mahshi Basal,Stuffed Onions,English
+Mahshi Basal,محشي بصل,Arabic
+Mahshi Basal,Ma7shy basal,Franco
 Mahshi Silq bi Roz,Mahshi Silq bi Roz,English
-Mahshi Silq bi Roz,MahshiSilqbiRoz,English
-Mahshi Silq bi Roz,وصفة Mahshi Silq bi Roz,Arabic
+Mahshi Silq bi Roz,Stuffed Swiss Chard,English
+Mahshi Silq bi Roz,محشي سلق بالرز,Arabic
+Mahshi Silq bi Roz,Ma7shy sel2,Franco
 Filfil Mahshi bel Freekeh,Filfil Mahshi bel Freekeh,English
-Filfil Mahshi bel Freekeh,FilfilMahshibelFreekeh,English
-Filfil Mahshi bel Freekeh,وصفة Filfil Mahshi bel Freekeh,Arabic
+Filfil Mahshi bel Freekeh,Peppers Stuffed with Freekeh,English
+Filfil Mahshi bel Freekeh,فلفل محشي بالفريك,Arabic
+Filfil Mahshi bel Freekeh,Felfel ma7shy bel feryk,Franco
 Ardi Shawki Mahshi bel Lahma,Ardi Shawki Mahshi bel Lahma,English
-Ardi Shawki Mahshi bel Lahma,ArdiShawkiMahshibelLahma,English
-Ardi Shawki Mahshi bel Lahma,وصفة Ardi Shawki Mahshi bel Lahma,Arabic
+Ardi Shawki Mahshi bel Lahma,Stuffed Artichokes with Meat,English
+Ardi Shawki Mahshi bel Lahma,خرشوف محشي باللحمة,Arabic
+Ardi Shawki Mahshi bel Lahma,أرضي شوكي محشي,Arabic
+Ardi Shawki Mahshi bel Lahma,5arshouf ma7shy bel la7ma,Franco
 Ardi Shawki bel Zeit wal Limon,Ardi Shawki bel Zeit wal Limon,English
-Ardi Shawki bel Zeit wal Limon,ArdiShawkibelZeitwalLimon,English
-Ardi Shawki bel Zeit wal Limon,وصفة Ardi Shawki bel Zeit wal Limon,Arabic
+Ardi Shawki bel Zeit wal Limon,Artichokes with Oil and Lemon,English
+Ardi Shawki bel Zeit wal Limon,خرشوف بالزيت والليمون,Arabic
+Ardi Shawki bel Zeit wal Limon,5arshouf bel zeit wal lamoun,Franco
 Dawood Basha,Dawood Basha,English
-Dawood Basha,DawoodBasha,English
-Dawood Basha,وصفة Dawood Basha,Arabic
+Dawood Basha,Dawoud Basha,English
+Dawood Basha,Meatballs in Tomato Sauce,English
+Dawood Basha,داوود باشا,Arabic
+Dawood Basha,Dawood basha,Franco
 Kofta bel Batates,Kofta bel Batates,English
-Kofta bel Batates,KoftabelBatates,English
-Kofta bel Batates,وصفة Kofta bel Batates,Arabic
+Kofta bel Batates,Kofta with Potatoes,English
+Kofta bel Batates,Saniyet Kofta,English
+Kofta bel Batates,كفتة بالبطاطس,Arabic
+Kofta bel Batates,صينية كفتة بالبطاطس,Arabic
+Kofta bel Batates,Kofta bel batates,Franco
+Kofta bel Batates,Saneyet kofta,Franco
 Kofta Halla,Kofta Halla,English
-Kofta Halla,KoftaHalla,English
-Kofta Halla,وصفة Kofta Halla,Arabic
+Kofta Halla,كفتة حلة,Arabic
+Kofta Halla,Kofta 7alla,Franco
 Kammounia bel Lahma,Kammounia bel Lahma,English
-Kammounia bel Lahma,KammouniabelLahma,English
 Kammounia bel Lahma,Kammoonia bel Lahma,English
-Kammounia bel Lahma,وصفة Kammounia bel Lahma,Arabic
+Kammounia bel Lahma,كمونية باللحمة,Arabic
+Kammounia bel Lahma,Kammouneya bel la7ma,Franco
 Kubeba Maqliya,Kubeba Maqliya,English
-Kubeba Maqliya,KubebaMaqliya,English
-Kubeba Maqliya,وصفة Kubeba Maqliya,Arabic
+Kubeba Maqliya,Kobeiba,English
+Kubeba Maqliya,Fried Kibbeh,English
+Kubeba Maqliya,كبيبة مقلية,Arabic
+Kubeba Maqliya,كبيبة,Arabic
+Kubeba Maqliya,Kobeiba ma2leya,Franco
+Kubeba Maqliya,Kobeiba,Franco
 Fatta bel Aranib,Fatta bel Aranib,English
-Fatta bel Aranib,FattabelAranib,English
-Fatta bel Aranib,وصفة Fatta bel Aranib,Arabic
+Fatta bel Aranib,Rabbit Fatteh,English
+Fatta bel Aranib,فتة بالأرانب,Arabic
+Fatta bel Aranib,فتة أرانب,Arabic
+Fatta bel Aranib,Fatta bel araneb,Franco
 Firakh bel Furn,Firakh bel Furn,English
-Firakh bel Furn,FirakhbelFurn,English
-Firakh bel Furn,وصفة Firakh bel Furn,Arabic
+Firakh bel Furn,Roasted Chicken,English
+Firakh bel Furn,Baked Chicken,English
+Firakh bel Furn,فراخ في الفرن,Arabic
+Firakh bel Furn,فراخ مشوية,Arabic
+Firakh bel Furn,Fera5 bel forn,Franco
 Fattet Firakh,Fattet Firakh,English
-Fattet Firakh,FattetFirakh,English
-Fattet Firakh,وصفة Fattet Firakh,Arabic
+Fattet Firakh,Chicken Fatteh,English
+Fattet Firakh,فتة فراخ,Arabic
+Fattet Firakh,Fattet fera5,Franco
 Fattet Gambari,Fattet Gambari,English
-Fattet Gambari,FattetGambari,English
-Fattet Gambari,وصفة Fattet Gambari,Arabic
+Fattet Gambari,Shrimp Fatteh,English
+Fattet Gambari,فتة جمبري,Arabic
+Fattet Gambari,Fattet gambary,Franco
 Kalawi Mashwiya,Kalawi Mashwiya,English
-Kalawi Mashwiya,KalawiMashwiya,English
-Kalawi Mashwiya,وصفة Kalawi Mashwiya,Arabic
+Kalawi Mashwiya,Grilled Kidneys,English
+Kalawi Mashwiya,كلاوي مشوية,Arabic
+Kalawi Mashwiya,كلاوي,Arabic
+Kalawi Mashwiya,Kalawy mashweya,Franco
 Kibda Mashwia,Kibda Mashwia,English
-Kibda Mashwia,KibdaMashwia,English
-Kibda Mashwia,وصفة Kibda Mashwia,Arabic
+Kibda Mashwia,Grilled Liver,English
+Kibda Mashwia,Kibda Mashweya,English
+Kibda Mashwia,كبدة مشوية,Arabic
+Kibda Mashwia,كبدة ردة,Arabic
+Kibda Mashwia,Kebda mashweya,Franco
+Kibda Mashwia,Kebda bel radda,Franco
 Lisan Mashwi,Lisan Mashwi,English
-Lisan Mashwi,LisanMashwi,English
-Lisan Mashwi,وصفة Lisan Mashwi,Arabic
+Lisan Mashwi,Grilled Tongue,English
+Lisan Mashwi,لسان مشوي,Arabic
+Lisan Mashwi,Lesan mashwy,Franco
 Lisan Salata,Lisan Salata,English
-Lisan Salata,LisanSalata,English
-Lisan Salata,وصفة Lisan Salata,Arabic
+Lisan Salata,Tongue Salad,English
+Lisan Salata,سلطة لسان,Arabic
+Lisan Salata,Salatet lesan,Franco
 Tehal Eskandarani,Tehal Eskandarani,English
-Tehal Eskandarani,TehalEskandarani,English
-Tehal Eskandarani,وصفة Tehal Eskandarani,Arabic
+Tehal Eskandarani,Alexandrian Spleen,English
+Tehal Eskandarani,طحال إسكندراني,Arabic
+Tehal Eskandarani,طحال,Arabic
+Tehal Eskandarani,To7al eskandarany,Franco
 Deek Rumi bel Furn,Deek Rumi bel Furn,English
-Deek Rumi bel Furn,DeekRumibelFurn,English
-Deek Rumi bel Furn,وصفة Deek Rumi bel Furn,Arabic
+Deek Rumi bel Furn,Roasted Turkey,English
+Deek Rumi bel Furn,ديك رومي في الفرن,Arabic
+Deek Rumi bel Furn,ديك رومي,Arabic
+Deek Rumi bel Furn,Deek roumy bel forn,Franco
 Hamam Mahshi Freekeh,Hamam Mahshi Freekeh,English
-Hamam Mahshi Freekeh,HamamMahshiFreekeh,English
-Hamam Mahshi Freekeh,وصفة Hamam Mahshi Freekeh,Arabic
+Hamam Mahshi Freekeh,Stuffed Pigeons with Freekeh,English
+Hamam Mahshi Freekeh,حمام محشي فريك,Arabic
+Hamam Mahshi Freekeh,7amam ma7shy feryk,Franco
 Molokhia bel Gambari,Molokhia bel Gambari,English
-Molokhia bel Gambari,MolokhiabelGambari,English
-Molokhia bel Gambari,وصفة Molokhia bel Gambari,Arabic
+Molokhia bel Gambari,Molokhia with Shrimp,English
+Molokhia bel Gambari,ملوخية بالجمبري,Arabic
+Molokhia bel Gambari,Molou5eya bel gambary,Franco
 Molokhia Yabsa bel Thoum,Molokhia Yabsa bel Thoum,English
-Molokhia Yabsa bel Thoum,MolokhiaYabsabelThoum,English
 Molokhia Yabsa bel Thoum,Molokhia Yabsa bel Thoom,English
-Molokhia Yabsa bel Thoum,وصفة Molokhia Yabsa bel Thoum,Arabic
+Molokhia Yabsa bel Thoum,Dried Molokhia,English
+Molokhia Yabsa bel Thoum,ملوخية ناشفة بالثوم,Arabic
+Molokhia Yabsa bel Thoum,ملوخية ناشفة,Arabic
+Molokhia Yabsa bel Thoum,Molou5eya nashfa,Franco
 Sayadeya Gambari,Sayadeya Gambari,English
-Sayadeya Gambari,SayadeyaGambari,English
-Sayadeya Gambari,وصفة Sayadeya Gambari,Arabic
+Sayadeya Gambari,Shrimp Sayadeya,English
+Sayadeya Gambari,صيادية جمبري,Arabic
+Sayadeya Gambari,Sayadeyet gambary,Franco
 Samak Eskandarani,Samak Eskandarani,English
-Samak Eskandarani,SamakEskandarani,English
-Samak Eskandarani,وصفة Samak Eskandarani,Arabic
+Samak Eskandarani,Alexandrian Fish,English
+Samak Eskandarani,Saniyet Samak,English
+Samak Eskandarani,سمك إسكندراني,Arabic
+Samak Eskandarani,صينية سمك,Arabic
+Samak Eskandarani,Samak eskandarany,Franco
+Samak Eskandarani,Saneyet samak,Franco
 Ankaleesh Mashwi,Ankaleesh Mashwi,English
-Ankaleesh Mashwi,AnkaleeshMashwi,English
-Ankaleesh Mashwi,وصفة Ankaleesh Mashwi,Arabic
+Ankaleesh Mashwi,Grilled Eel,English
+Ankaleesh Mashwi,Tho'ban Samak,English
+Ankaleesh Mashwi,حنشان مشوي,Arabic
+Ankaleesh Mashwi,ثعبان سمك مشوي,Arabic
+Ankaleesh Mashwi,7enshan mashwy,Franco
 Renga Salad,Renga Salad,English
-Renga Salad,RengaSalad,English
-Renga Salad,وصفة Renga Salad,Arabic
+Renga Salad,Smoked Herring Salad,English
+Renga Salad,سلطة رنجة,Arabic
+Renga Salad,Salatet renga,Franco
 Renga Mashwia,Renga Mashwia,English
-Renga Mashwia,RengaMashwia,English
-Renga Mashwia,وصفة Renga Mashwia,Arabic
+Renga Mashwia,Grilled Smoked Herring,English
+Renga Mashwia,رنجة مشوية,Arabic
+Renga Mashwia,Renga mashweya,Franco
 Sardin Mekhalel,Sardin Mekhalel,English
-Sardin Mekhalel,SardinMekhalel,English
-Sardin Mekhalel,وصفة Sardin Mekhalel,Arabic
+Sardin Mekhalel,Pickled Sardines,English
+Sardin Mekhalel,Fesikh Sardines,English
+Sardin Mekhalel,سردين مخلل,Arabic
+Sardin Mekhalel,Sardeen me5allel,Franco
 Bream Mashwi,Bream Mashwi,English
-Bream Mashwi,BreamMashwi,English
-Bream Mashwi,وصفة Bream Mashwi,Arabic
+Bream Mashwi,Bolti Mashwi,English
+Bream Mashwi,Grilled Tilapia,English
+Bream Mashwi,بلطي مشوي,Arabic
+Bream Mashwi,سمك مشوي,Arabic
+Bream Mashwi,Bolty mashwy,Franco
 Kaboria bel Salsa,Kaboria bel Salsa,English
-Kaboria bel Salsa,KaboriabelSalsa,English
-Kaboria bel Salsa,وصفة Kaboria bel Salsa,Arabic
+Kaboria bel Salsa,Crabs in Sauce,English
+Kaboria bel Salsa,كابوريا بالصلصة,Arabic
+Kaboria bel Salsa,كابوريا,Arabic
+Kaboria bel Salsa,Kaborya bel salsa,Franco
 Gambari bel Thoum,Gambari bel Thoum,English
-Gambari bel Thoum,GambaribelThoum,English
 Gambari bel Thoum,Gambari bel Thoom,English
-Gambari bel Thoum,وصفة Gambari bel Thoum,Arabic
+Gambari bel Thoum,Garlic Shrimp,English
+Gambari bel Thoum,جمبري بالثوم,Arabic
+Gambari bel Thoum,Gambary bel tom,Franco
 Roz Muammar,Roz Muammar,English
-Roz Muammar,RozMuammar,English
-Roz Muammar,وصفة Roz Muammar,Arabic
+Roz Muammar,Baked Rice,English
+Roz Muammar,Roz Meammar,English
+Roz Muammar,رز معمر,Arabic
+Roz Muammar,أرز معمر,Arabic
+Roz Muammar,Roz me3ammar,Franco
 Roz bel Foul Akhdar,Roz bel Foul Akhdar,English
-Roz bel Foul Akhdar,RozbelFoulAkhdar,English
 Roz bel Foul Akhdar,Roz bel Fool Akhdar,English
-Roz bel Foul Akhdar,وصفة Roz bel Foul Akhdar,Arabic
+Roz bel Foul Akhdar,Rice with Green Fava Beans,English
+Roz bel Foul Akhdar,رز بالفول الأخضر,Arabic
+Roz bel Foul Akhdar,Roz bel foul el a5dar,Franco
 Roz bel Lahma,Roz bel Lahma,English
-Roz bel Lahma,RozbelLahma,English
-Roz bel Lahma,وصفة Roz bel Lahma,Arabic
+Roz bel Lahma,Rice with Meat,English
+Roz bel Lahma,رز باللحمة,Arabic
+Roz bel Lahma,Roz bel la7ma,Franco
 Ruz bel Loubia,Ruz bel Loubia,English
-Ruz bel Loubia,RuzbelLoubia,English
 Ruz bel Loubia,Ruz bel Loobia,English
-Ruz bel Loubia,وصفة Ruz bel Loubia,Arabic
+Ruz bel Loubia,Rice with Black Eyed Peas,English
+Ruz bel Loubia,رز باللوبيا,Arabic
+Ruz bel Loubia,Roz bel loubya,Franco
 Macarona bel Zeit,Macarona bel Zeit,English
-Macarona bel Zeit,MacaronabelZeit,English
-Macarona bel Zeit,وصفة Macarona bel Zeit,Arabic
+Macarona bel Zeit,Pasta with Oil,English
+Macarona bel Zeit,مكرونة بالزيت,Arabic
+Macarona bel Zeit,Macarona bel zeit,Franco
 Macarona bel Gambari,Macarona bel Gambari,English
-Macarona bel Gambari,MacaronabelGambari,English
-Macarona bel Gambari,وصفة Macarona bel Gambari,Arabic
+Macarona bel Gambari,Shrimp Pasta,English
+Macarona bel Gambari,مكرونة بالجمبري,Arabic
+Macarona bel Gambari,Macarona bel gambary,Franco
 Sabanekh bel Gambari,Sabanekh bel Gambari,English
-Sabanekh bel Gambari,SabanekhbelGambari,English
-Sabanekh bel Gambari,وصفة Sabanekh bel Gambari,Arabic
+Sabanekh bel Gambari,Spinach with Shrimp,English
+Sabanekh bel Gambari,سبانخ بالجمبري,Arabic
+Sabanekh bel Gambari,Sabane5 bel gambary,Franco
 Amar El Din,Amar El Din,English
-Amar El Din,AmarElDin,English
-Amar El Din,وصفة Amar El Din,Arabic
+Amar El Din,Qamar al-Din,English
+Amar El Din,Apricot Juice,English
+Amar El Din,قمر الدين,Arabic
+Amar El Din,عصير قمر الدين,Arabic
+Amar El Din,Amar el dyn,Franco
 Tamarhindi,Tamarhindi,English
-Tamarhindi,وصفة Tamarhindi,Arabic
+Tamarhindi,Tamarind Drink,English
+Tamarhindi,Tamr Hindi,English
+Tamarhindi,تمرهندي,Arabic
+Tamarhindi,تمر هندي,Arabic
+Tamarhindi,Tamr hendy,Franco
 Sobia,Sobia,English
-Sobia,وصفة Sobia,Arabic
+Sobia,Coconut Milk Drink,English
+Sobia,سوبيا,Arabic
+Sobia,عصير سوبيا,Arabic
+Sobia,Sobya,Franco
 Ganzabil,Ganzabil,English
-Ganzabil,وصفة Ganzabil,Arabic
+Ganzabil,Ginger Drink,English
+Ganzabil,جنزبيل,Arabic
+Ganzabil,زنجبيل,Arabic
+Ganzabil,Ganzabeel,Franco
 Asir Asab bel Limon,Asir Asab bel Limon,English
-Asir Asab bel Limon,AsirAsabbelLimon,English
-Asir Asab bel Limon,وصفة Asir Asab bel Limon,Arabic
+Asir Asab bel Limon,Sugarcane Juice with Lemon,English
+Asir Asab bel Limon,عصير قصب بالليمون,Arabic
+Asir Asab bel Limon,عصير قصب,Arabic
+Asir Asab bel Limon,3aseer asab bel lamoun,Franco
+Asir Asab bel Limon,3aseer asab,Franco
 Khoshaf Ramadan,Khoshaf Ramadan,English
-Khoshaf Ramadan,KhoshafRamadan,English
-Khoshaf Ramadan,وصفة Khoshaf Ramadan,Arabic
+Khoshaf Ramadan,Dried Fruit Compote,English
+Khoshaf Ramadan,Khoshaf,English
+Khoshaf Ramadan,خشاف رمضان,Arabic
+Khoshaf Ramadan,خشاف,Arabic
+Khoshaf Ramadan,5oshaf,Franco
 Basbousa bel Gozz Hindi,Basbousa bel Gozz Hindi,English
-Basbousa bel Gozz Hindi,BasbousabelGozzHindi,English
 Basbousa bel Gozz Hindi,Basboosa bel Gozz Hindi,English
-Basbousa bel Gozz Hindi,وصفة Basbousa bel Gozz Hindi,Arabic
+Basbousa bel Gozz Hindi,Coconut Basbousa,English
+Basbousa bel Gozz Hindi,بسبوسة بجوز الهند,Arabic
+Basbousa bel Gozz Hindi,بسبوسة,Arabic
+Basbousa bel Gozz Hindi,Basbousa bel goz hend,Franco
+Basbousa bel Gozz Hindi,Basbousa,Franco
 Qatayef Asafiri,Qatayef Asafiri,English
-Qatayef Asafiri,QatayefAsafiri,English
-Qatayef Asafiri,وصفة Qatayef Asafiri,Arabic
+Qatayef Asafiri,Mini Qatayef,English
+Qatayef Asafiri,Atayef Asafiri,English
+Qatayef Asafiri,قطايف عصافيري,Arabic
+Qatayef Asafiri,قطايف,Arabic
+Qatayef Asafiri,2atayef 3asafyry,Franco
+Qatayef Asafiri,Atayef,Franco
 Kahk bel Gozz,Kahk bel Gozz,English
-Kahk bel Gozz,KahkbelGozz,English
-Kahk bel Gozz,وصفة Kahk bel Gozz,Arabic
+Kahk bel Gozz,Kahk with Walnuts,English
+Kahk bel Gozz,كحك بالجوز,Arabic
+Kahk bel Gozz,كحك العيد,Arabic
+Kahk bel Gozz,Ka7k bel goz,Franco
+Kahk bel Gozz,Ka7k,Franco
 Mishmoshiya,Mishmoshiya,English
-Mishmoshiya,وصفة Mishmoshiya,Arabic
+Mishmoshiya,Apricot Pudding,English
+Mishmoshiya,مشمشية,Arabic
+Mishmoshiya,Meshmesheya,Franco
 Loz Msakar,Loz Msakar,English
-Loz Msakar,LozMsakar,English
-Loz Msakar,وصفة Loz Msakar,Arabic
+Loz Msakar,Sugared Almonds,English
+Loz Msakar,لوز مسكر,Arabic
+Loz Msakar,Loz mesakkar,Franco
 Fool Sudani Muhammas,Fool Sudani Muhammas,English
-Fool Sudani Muhammas,FoolSudaniMuhammas,English
-Fool Sudani Muhammas,وصفة Fool Sudani Muhammas,Arabic
+Fool Sudani Muhammas,Roasted Peanuts,English
+Fool Sudani Muhammas,فول سوداني محمص,Arabic
+Fool Sudani Muhammas,سوداني محمص,Arabic
+Fool Sudani Muhammas,Foul soudany me7ammas,Franco
+Fool Sudani Muhammas,Soudany me7ammas,Franco
 Mekasarat Muhamasa,Mekasarat Muhamasa,English
-Mekasarat Muhamasa,MekasaratMuhamasa,English
-Mekasarat Muhamasa,وصفة Mekasarat Muhamasa,Arabic
+Mekasarat Muhamasa,Roasted Nuts,English
+Mekasarat Muhamasa,Mixed Nuts,English
+Mekasarat Muhamasa,مكسرات محمصة,Arabic
+Mekasarat Muhamasa,مكسرات,Arabic
+Mekasarat Muhamasa,Mekassarat me7ammasa,Franco
 Balah Mahshi bel Mekasarat,Balah Mahshi bel Mekasarat,English
-Balah Mahshi bel Mekasarat,BalahMahshibelMekasarat,English
-Balah Mahshi bel Mekasarat,وصفة Balah Mahshi bel Mekasarat,Arabic
+Balah Mahshi bel Mekasarat,Stuffed Dates with Nuts,English
+Balah Mahshi bel Mekasarat,بلح محشي بالمكسرات,Arabic
+Balah Mahshi bel Mekasarat,تمر محشي,Arabic
+Balah Mahshi bel Mekasarat,Bala7 ma7shy bel mekassarat,Franco
 Koshari,Koshari,English
-Koshari,كشري,Arabic
 Koshari,Koshary,English
 Koshari,Kosheri,English
+Koshari,كشري,Arabic
+Koshari,Koshary,Franco
 Molokhia,Molokhia,English
-Molokhia,ملوخية,Arabic
 Molokhia,Molokheya,English
 Molokhia,Mulukhiyah,English
+Molokhia,ملوخية,Arabic
+Molokhia,Molou5eya,Franco
 Mahshi Waraq Enab,Mahshi Waraq Enab,English
-Mahshi Waraq Enab,MahshiWaraqEnab,English
+Mahshi Waraq Enab,Mahshi Warak Enab,English
+Mahshi Waraq Enab,Stuffed Grape Leaves,English
 Mahshi Waraq Enab,محشي ورق عنب,Arabic
+Mahshi Waraq Enab,Mahshi wara2 enab,Franco
+Mahshi Waraq Enab,Mahshi war2 enab,Franco
 Ful Medames,Ful Medames,English
-Ful Medames,FulMedames,English
+Ful Medames,Foul Medammes,English
+Ful Medames,Foul Medames,English
 Ful Medames,فول مدمس,Arabic
+Ful Medames,Foul,Franco
+Ful Medames,Ful Medames,Franco
 Taameya,Taameya,English
+Taameya,Taamia,English
+Taameya,Falafel Egyptian,English
 Taameya,طعمية,Arabic
+Taameya,Ta3meya,Franco
+Taameya,Ta3ameya,Franco
 Macarona Bechamel,Macarona Bechamel,English
-Macarona Bechamel,MacaronaBechamel,English
+Macarona Bechamel,Macarona Béchamel,English
+Macarona Bechamel,Baked Pasta with Bechamel,English
 Macarona Bechamel,مكرونة بشاميل,Arabic
+Macarona Bechamel,مكرونة بالبشاميل,Arabic
+Macarona Bechamel,Macarona beshamel,Franco
 Om Ali,Om Ali,English
-Om Ali,OmAli,English
+Om Ali,Umm Ali,English
+Om Ali,Omm Ali,English
 Om Ali,أم علي,Arabic
+Om Ali,Om 3aly,Franco
 Moussaka Masreya,Moussaka Masreya,English
-Moussaka Masreya,MoussakaMasreya,English
 Moussaka Masreya,Moossaka Masreya,English
+Moussaka Masreya,Egyptian Moussaka,English
+Moussaka Masreya,Mesa'a'ah,English
 Moussaka Masreya,مسقعة مصرية,Arabic
+Moussaka Masreya,مسقعة,Arabic
+Moussaka Masreya,Mesa2a3a masreya,Franco
+Moussaka Masreya,Mesa2a3a,Franco
 Roz Bel Laban,Roz Bel Laban,English
-Roz Bel Laban,RozBelLaban,English
+Roz Bel Laban,Rice Pudding,English
+Roz Bel Laban,Roz be Laban,English
 Roz Bel Laban,أرز باللبن,Arabic
+Roz Bel Laban,رز باللبن,Arabic
+Roz Bel Laban,Roz bel laban,Franco
 Sayadeya,Sayadeya,English
+Sayadeya,Sayadiya,English
+Sayadeya,Egyptian Fishermans Rice,English
 Sayadeya,صيادية,Arabic
+Sayadeya,رز صيادية,Arabic
+Sayadeya,Sayadeya,Franco
+Sayadeya,Roz sayadeya,Franco
 Kofta Mashweya,Kofta Mashweya,English
-Kofta Mashweya,KoftaMashweya,English
+Kofta Mashweya,Grilled Kofta,English
 Kofta Mashweya,كفتة مشوية,Arabic
+Kofta Mashweya,كفتة الحاتي,Arabic
+Kofta Mashweya,Kofta mashweya,Franco
+Kofta Mashweya,Koftat el 7aty,Franco
 Fatteh Masreya,Fatteh Masreya,English
-Fatteh Masreya,FattehMasreya,English
+Fatteh Masreya,Egyptian Fatteh,English
+Fatteh Masreya,Fatta,English
 Fatteh Masreya,فتة مصرية,Arabic
+Fatteh Masreya,فتة بالخل والثوم,Arabic
+Fatteh Masreya,Fatta masreya,Franco
 Shorbet Adss,Shorbet Adss,English
-Shorbet Adss,ShorbetAdss,English
+Shorbet Adss,Lentil Soup,English
+Shorbet Adss,Shorbet Ads,English
 Shorbet Adss,شوربة عدس,Arabic
+Shorbet Adss,Shorbet 3ads,Franco
 Shakshouka Masreya,Shakshouka Masreya,English
-Shakshouka Masreya,ShakshoukaMasreya,English
 Shakshouka Masreya,Shakshooka Masreya,English
+Shakshouka Masreya,Egyptian Shakshouka,English
 Shakshouka Masreya,شكشوكة مصرية,Arabic
+Shakshouka Masreya,شكشوكة,Arabic
+Shakshouka Masreya,Shakshouka masreya,Franco
+Shakshouka Masreya,Shakshouka,Franco
 Kabab Halla,Kabab Halla,English
-Kabab Halla,KababHalla,English
+Kabab Halla,Kebab Halla,English
+Kabab Halla,Egyptian Beef Stew,English
 Kabab Halla,كباب حلة,Arabic
+Kabab Halla,Kabab 7alla,Franco
 Tagen Bamia Bel Lahma,Tagen Bamia Bel Lahma,English
-Tagen Bamia Bel Lahma,TagenBamiaBelLahma,English
+Tagen Bamia Bel Lahma,Okra Tagine with Meat,English
+Tagen Bamia Bel Lahma,Bamia bel Lahma,English
 Tagen Bamia Bel Lahma,طاجن بامية باللحمة,Arabic
+Tagen Bamia Bel Lahma,بامية باللحمة,Arabic
+Tagen Bamia Bel Lahma,Tagen bamya bel la7ma,Franco
+Tagen Bamia Bel Lahma,Bamya bel la7ma,Franco
 Salatat Baladi,Salatat Baladi,English
-Salatat Baladi,SalatatBaladi,English
+Salatat Baladi,Salata Baladi,English
+Salatat Baladi,Egyptian Salad,English
 Salatat Baladi,سلطة بلدي,Arabic
+Salatat Baladi,سلطة خضراء,Arabic
+Salatat Baladi,Salata balady,Franco
 Baid Bel Basterma,Baid Bel Basterma,English
-Baid Bel Basterma,BaidBelBasterma,English
+Baid Bel Basterma,Eggs with Basturma,English
+Baid Bel Basterma,Eggs and Basterma,English
 Baid Bel Basterma,بيض بالبسطرمة,Arabic
+Baid Bel Basterma,Beed bel basterma,Franco
 Hawawshi,Hawawshi,English
+Hawawshi,Egyptian Meat Pie,English
+Hawawshi,Hawawshy,English
 Hawawshi,حواوشي,Arabic
+Hawawshi,7awawshy,Franco
 Kebda Iskandarani,Kebda Iskandarani,English
-Kebda Iskandarani,KebdaIskandarani,English
+Kebda Iskandarani,Alexandrian Liver,English
+Kebda Iskandarani,Kebda Eskandarani,English
 Kebda Iskandarani,كبدة إسكندراني,Arabic
+Kebda Iskandarani,Kebda eskandarany,Franco
